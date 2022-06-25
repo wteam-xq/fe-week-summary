@@ -26,4 +26,4 @@
 * [下月退役！27 年 IE 终落幕，再见 IE，你好 Edge](https://www.infoq.cn/news/BNMm3Yom5HqYmG4iTEVc) IE 退役，Edge 接力
 * [IE 浏览器已“死”，一个时代的终结](https://mp.weixin.qq.com/s/pmd22EIxa7EwzQUw-Zg4jw) 北京时间 2022 年 6 月 16 日，IE 浏览器正式退役，之后将由 Edge 浏览器接棒继续提供服务。
 * [HTTP/3 发布！](https://mp.weixin.qq.com/s/40YBEWZBaHakDuRuh27fMg) 2020年6月6日, 历时 5 年，HTTP/3 终于被标准化为 RFC 9114。
-
+* [ES 2022 正式发布！有哪些新特性？](https://mp.weixin.qq.com/s/83SxYXpxCilGypJUGKG9qw) 1）Top-level Await；2）Object.hasOwn()；3）at()；4）error.cause；5）正则表达式匹配索引；6）类
