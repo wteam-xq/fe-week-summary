@@ -46,4 +46,5 @@
 * [chrome插件最新版本开发指南来了](https://juejin.cn/post/7051466934948200461) 浏览器扩展开发，最新版（第三版）入门
 * [黑客工具套](https://ctfever.uniiem.com/) 为 CTF 黑客比赛参加者准备的常用工具套件。
 * [React 单元测试策略及落地](https://www.infoq.cn/article/asmlfdi3pi_vepxpo3lu) 单元测试相关
+* [组件百科全书](https://github.com/storybookjs/storybook/) Storybook 近日启动了组件百科全书 (Component Encyclopedia) 项目，他们希望将世界各地的顶级 UI 组件编列在一个地方，供开发者在构建自己的项目时浏览、引用和重用。目前已经记录了来自 Airbnb、微软、Zendesk 等多家公司的 5132 个组件。
 

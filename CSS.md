@@ -54,6 +54,8 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 8）COLRv1字体； 9）视口单位（dvh,lvh, svh）10）:has()
 ```
 * [使用 content-visibility 优化渲染性能](https://mp.weixin.qq.com/s/o9lpl7CTwcbjM0q3QMRLTg) 用于无限滚动的新CSS样式
+* [妙啊！超酷炫的气泡效果](https://mp.weixin.qq.com/s/cMw7spioONzJm5T-wSGt4w) CSS 动画实现酷炫气泡详细教程，后续有类似动画可不用设计出动画稿
+
 
 
 

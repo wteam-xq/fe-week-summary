@@ -8,7 +8,6 @@
 * [Mocha 9.0发布](https://github.com/mochajs/mocha/releases/tag/v9.0.0)Mocha 一直是 Node.js 和浏览器中流行的测试框架。
 * [从零构建前端脚手架/CLI知识体系](https://juejin.cn/post/6966119324478079007#heading-22)
 * [我们是如何在CI流水线统计web前端FPS的？](https://mp.weixin.qq.com/s/fD-jtZ0ETUWwyL3YhmA3kw)
-* [云凤蝶低代码之路](https://mp.weixin.qq.com/s/uWLwjJ-fjDL2BR2i7aebVw)
 * [模块化系列 - 彻底理清 AMD,CommonJS,CMD,UMD,ES6](https://zhuanlan.zhihu.com/p/108217164) 前端模块比较深入和系统总结的博文
 * [字节跳动：现代Web开发实践](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A)
 * [rollup - 构建原理及简易实现](https://mp.weixin.qq.com/s/diE0M-TWtGoYUUTfTNN26A)
@@ -47,6 +46,5 @@ How，怎么定位解决问题，我们还需要收集系统等信息。
 * [五种可视化方案分析 webpack 打包性能瓶颈](https://juejin.cn/post/6844904056985485320) 关于 webpack性能观测 插件介绍
 * [Webpack to Vite 工具](https://github.com/originjs/webpack-to-vite) 可以先接入 webpack 5, 然后尝试自动化转成 Vite 配置；
 * [浏览器的 5 种 Observer，你用过几种？](https://mp.weixin.qq.com/s/-fLZe164aWAaPJ55iZ_m2w) 信息采集，数据上报相关
-* [网易云音乐低代码体系建设思考与实践](https://mp.weixin.qq.com/s/9yo-Au3wwsWErBJfFjhxUg) 网易云音乐团队， 低代码建设实践小结
 * [前端部署十五章](https://q.shanyue.tech/deploy/) 一组系列文章，介绍如何部署前端项目。从最原始的部署方案过渡到 Docker 与 Kubernetes，逐步优化，另有配套的 视频讲解；
 * [迄今为止最全的前端监控体系搭建篇(长文预警)](https://mp.weixin.qq.com/s/7c0yqwSxK-FvLm1iKZrjmQ) 比较全的前端性能监控方案
