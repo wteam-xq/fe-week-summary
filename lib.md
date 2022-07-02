@@ -60,3 +60,4 @@ Server Component 叫服务端组件，目前还在开发过程中，没有正式
 * [Yaade](https://github.com/EsperoTech/yaade) 一个开源的 API 开发环境，相当于开源的 Postman。
 * [不再支持 IE，React 18 新特性详细解读](https://mp.weixin.qq.com/s/0ycO5zot5EBcFOl46NwYoA) IE 浏览器停止维护， 相关库也不再支持，归纳了 18的三大更新以及其他小更改
 * [干货 | 携程机票前端Svelte生产实践](https://mp.weixin.qq.com/s/QWwb8PXtdJJUKyicHRmBkw) 近期关于Svelte实践的干货博文，该框架重点在于 “轻”、“快”， 特别适合 H5活动页
+* [React Arborist](https://github.com/brimdata/react-arborist) 一个 React 树状视图组件，支持项目的拖拉和点击编辑。

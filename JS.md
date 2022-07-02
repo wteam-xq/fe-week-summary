@@ -40,4 +40,5 @@ JavaScript 中的日期处理很丑陋。自 1995 年第一个受 Java 启发的
 * [一文破解正则密码](https://mp.weixin.qq.com/s/T0JFH618B_BVTzTr8m31bw) 关于正则讲解，比较系统全面的博文
 * [1.4w字总结带你重学TypeScript](https://juejin.cn/post/7096695346239111199) 重新学习 TS
 * [JS 运行机制最全面的一次梳理](https://mp.weixin.qq.com/s/PhuhUtQGz0uPxVrtNB4TCA) 本文适合有一定经验的前端人员，新手请规避，避免受到过多的概念冲击。
+* [ES 2022 正式发布！有哪些新特性？](https://mp.weixin.qq.com/s/83SxYXpxCilGypJUGKG9qw) 1）Top-level Await；2）Object.hasOwn()；3）at()；4）error.cause；5）正则表达式匹配索引；6）类
 
