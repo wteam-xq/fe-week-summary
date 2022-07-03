@@ -14,3 +14,4 @@
 * [一文彻底搞懂前端沙箱](https://mp.weixin.qq.com/s/uu0H2MTO1z1b8nsfuoyLQw) 对前端沙箱比较全面的讲解，可惜CSS隔离没展开，讲解内容较少
 * [比 eval 和 iframe 更强的新一代 JavaScript 沙箱！](https://mp.weixin.qq.com/s/wAI-L3we6uK0HvvPtOcIjg) 进入 statge3 的新的 JavaScript 提案：ShadowRealm API。
 * [以 Log4j 为例，如何评估和划分安全风险](https://mp.weixin.qq.com/s/2eCzDAX4orgEXu1rvhZSNA) 5个方面处理第三方库安全风险
+* [深入Chrome 102 新特性PNA (Private Network Access) 机制与相关异常](https://mp.weixin.qq.com/s/XNVhQkuEuZ6Z2fVWVyt-ww) 谷歌浏览器102 PNA 结合实际场景的分析贴， 较实用，mark!

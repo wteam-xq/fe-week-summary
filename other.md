@@ -20,3 +20,4 @@
 * [如果你想知道什么是 NFT，看这篇就够了](https://mp.weixin.qq.com/s/yfVz-pKJN0ifwOXNDAfhlA) 关于区块链 历史讲解比较透彻的博文
 * [程序员做饭指南](https://github.com/LeeJim/HowToCookOnMiniprogram) 又刷到这个关注异常高的 gitHub项目哈
 * [程序员延寿指南](https://github.com/geekan/HowToLiveLonger) 养生系列
+* [Web3.0 撕裂资本圈](https://mp.weixin.qq.com/s/iGUKthMUnFvITtrM7uG1Xw) Web3.0 讨论帖

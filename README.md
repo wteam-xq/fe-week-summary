@@ -11,6 +11,7 @@
 ### [奇舞周刊](https://weekly.75.team/)
 ### [政采云前端周刊](https://weekly.zoo.team/)
 ### [鑫空间，鑫生活](https://www.zhangxinxu.com/wordpress/)
+### 其他前端微信公众号
 
 ## 博文分类
 ### [CSS](https://github.com/wteam-xq/fe-week-summary/blob/main/CSS.md)

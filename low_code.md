@@ -6,3 +6,4 @@
 * no-code、low-code、pro-code三者 区别？ 
 * ![what_is_pro-code](https://raw.githubusercontent.com/wteam-xq/fe-week-summary/master/images/what_is_pro-code.jpg)
 * [低代码渲染那些事](https://mp.weixin.qq.com/s/yqYey76qLGYPfDtpGkVFfA) 低代码渲染器 就是一种 DSL(Domain Specific Language)， 协议也可以理解为是 React/Vue 等 ProCode 代码和低代码 json 源码如何互相解析的说明;
+* [ESM Bundleless 在蚂蚁集团低代码场景的实践](https://mp.weixin.qq.com/s/NfuJU7xPkrl9Nc6rP3hyeA) 阿里-云凤蝶团队： 将webpack/viet等编译思路 落地到低代码，组件加载、编译场景
