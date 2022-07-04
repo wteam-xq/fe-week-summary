@@ -46,3 +46,4 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [性能优化——图片压缩、加载和格式选择](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247486786&idx=1&sn=f9f805bd4572c5a0854d50817ceb0652&chksm=cf3c3933f84bb025659ed77d80002de55db633ac465cf61c9e14b704959b0037867d3e7a4844&token=868444553&lang=zh_CN#rd) 针对图片的性能优化， 压缩图片、选择正确格式、 CDN 加速、懒加载等。
 * [作业帮直播间前端架构优化实践](https://mp.weixin.qq.com/s/zVRLRV16vr8eudFcVKqm2w) 直播间架构性能优化实践小结
 * [这⼀次彻底弄懂：React 服务端渲染](https://mp.weixin.qq.com/s/j2rB8qE5OOPmLHAS7qdCrQ) 关于服务端渲染 汇总比较全面的博文
+* [HTTP史记 - 从HTTP/1到HTTP/3](https://mp.weixin.qq.com/s/B7K00-wTUSmy87caDHRWFA) HTTP 0.9 到 HTTP 3.0 小总结
