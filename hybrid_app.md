@@ -22,3 +22,5 @@ Weex 2016年
 Google在2018年发布了Flutter 1.0
 2021年ReactNative新版本对底层进行了重构，可以关注一下，如改变线程模型，引入异步渲染能力，允许多个渲染并简化异步数据处理，简化 JSBridge等。
 ```
+* [我零基础独立开发一个 Web/Hybrid 项目的经历](https://imf.ms/web/2022/07/05/my-first-web-hybird-project-experience/) 适合后端同学参考
+* [Tauri 系列：打造属于自己的下一代跨端应用](https://www.zhihu.com/column/c_1519079232848785408) 一组中文系列文章，介绍如何用 Tauri 开发一个跨平台桌面应用。Tauri 是 Electron 的替代品，使用平台自带的 WebView。

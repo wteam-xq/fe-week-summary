@@ -48,4 +48,6 @@ How，怎么定位解决问题，我们还需要收集系统等信息。
 * [浏览器的 5 种 Observer，你用过几种？](https://mp.weixin.qq.com/s/-fLZe164aWAaPJ55iZ_m2w) 信息采集，数据上报相关
 * [前端部署十五章](https://q.shanyue.tech/deploy/) 一组系列文章，介绍如何部署前端项目。从最原始的部署方案过渡到 Docker 与 Kubernetes，逐步优化，另有配套的 视频讲解；
 * [迄今为止最全的前端监控体系搭建篇(长文预警)](https://mp.weixin.qq.com/s/7c0yqwSxK-FvLm1iKZrjmQ) 比较全的前端性能监控方案
+* [Jenkins 和 Kubernetes -云上的神秘代理 ](https://www.jenkins.io/zh/blog/2018/09/14/kubernetes-and-secret-agents/) Jenkins + K8s 实践
+* [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) 该仓库收集各种一行的 Bash 命令，用来完成各种不同的任务。
 

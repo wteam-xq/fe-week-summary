@@ -21,3 +21,4 @@
 * [程序员做饭指南](https://github.com/LeeJim/HowToCookOnMiniprogram) 又刷到这个关注异常高的 gitHub项目哈
 * [程序员延寿指南](https://github.com/geekan/HowToLiveLonger) 养生系列
 * [Web3.0 撕裂资本圈](https://mp.weixin.qq.com/s/iGUKthMUnFvITtrM7uG1Xw) Web3.0 讨论帖
+* [技术负责人要有哲学思维](https://mp.weixin.qq.com/s/EDqWssxz1UCfoBWCMQh3rg) 团队技术一号位 需要的做事心态！
