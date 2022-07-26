@@ -17,3 +17,4 @@
 * [深入Chrome 102 新特性PNA (Private Network Access) 机制与相关异常](https://mp.weixin.qq.com/s/XNVhQkuEuZ6Z2fVWVyt-ww) 谷歌浏览器102 PNA 结合实际场景的分析贴， 较实用，mark!
 * [抖音三面：硬件加速中的“层”和层叠上下文中的“层”，是一个东西吗？](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0NzQ3OQ==&mid=2247486037&idx=1&sn=d4092fd57179d180103dfeaf42f6ee17&chksm=ceb799adf9c010bbcb74db69e01b04dbb3c1f4cd1c266e4be0805a4e7954c9cd049bf8b8e6db&token=903578161&lang=zh_CN#rd) 隐式合成 造成 层爆炸 - 低端机浏览器 卡顿原因
 * [Web 应用身份验证的未来？WebAuth 介绍](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247494467&idx=1&sn=b55ed5c175b81c6f9141d98f2fe142cd&chksm=c1601823f6179135ed047dfd9ac003429a8f9db47edd952c3d0bda96d29bbbf7b3b287740ea7&token=903578161&lang=zh_CN#rd) 对系统密码 存储、漏洞等有较为详细的讲解，高质博文
+* [Meta 如何实现大规模无身份信息认证](https://mp.weixin.qq.com/s/N3Z91-Lj6w_j7Zv8hc7nnw) 匿名凭据服务（Anonymous Credential Service，ACS） 实现登录， 客户端创建令牌、进行盲签名，发服务端，服务端签名令牌返回，客户端执行非盲操作，客户端发送HMAC（Hash message authentication codes，散列过的消息认证代码）, 服务端检查HMAC 验证 shared_secret 对比本地计算的 shared_secret 以完成校验。
