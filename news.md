@@ -28,3 +28,4 @@
 * [HTTP/3 发布！](https://mp.weixin.qq.com/s/40YBEWZBaHakDuRuh27fMg) 2020年6月6日, 历时 5 年，HTTP/3 终于被标准化为 RFC 9114。
 * [ES 2022 正式发布！有哪些新特性？](https://mp.weixin.qq.com/s/83SxYXpxCilGypJUGKG9qw) 1）Top-level Await；2）Object.hasOwn()；3）at()；4）error.cause；5）正则表达式匹配索引；6）类
 * [W3C 加入元宇宙标准论坛推动开放包容的元宇宙互操作性标准](https://mp.weixin.qq.com/s/hyn-zQvzZcce1qmteiNkQw) 元宇宙欲建立开放标准，要标准开发组织（SDO）创建一系列开放式的互操作性标准。
+* [新一代 Web 技术标准论坛 · W3C 2022 年度全球技术大会中国分会场](https://mp.weixin.qq.com/s/Tx9_eW9FfddMROYAZwYlQA) W3C 2022年度全球技术大会（TPAC 2022）将于今年9月以线上与线下结合的形式召开，其中线下会场位于加拿大温哥华。

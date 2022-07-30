@@ -58,6 +58,7 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 * [CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) CSS 换行深入小结
 * [CSS object-fit 属性](https://www.runoob.com/cssref/pr-object-fit.html) CSS 是具备裁剪网页中图片的能力的，如果是 背景图片，那么使用的裁剪方法是 background-size 属性。而如果是普通图片，那么使用的裁剪方法则是 object-fit。他们两者的裁剪模式大致相同，都是fill、contain、cover、scale-down ... 这几种。
 * [CSS Houdini：用浏览器引擎实现高级CSS效果](https://mp.weixin.qq.com/s/4owfsfX6bMzvgwvVxaCmzQ) Houdini 的出现最直接的目的是为了解决浏览器对新的CSS特性支持较差以及Cross-Browser的问题
+* [2022 推荐关注这个零运行时且支持 TS 的 CSS-in-JS 框架](https://mp.weixin.qq.com/s/OpCQJaSbzqWEykAh_qGJfQ) Vanilla Extract  是一个新的 CSS-in-JS 库，用来编写 CSS 样式文件，于 2021 年开源，在年度全球 CSS 报告中荣登 CSS-in-JS 满意度榜首。
 
 
 
