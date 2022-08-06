@@ -46,3 +46,7 @@
 * [React 单元测试策略及落地](https://www.infoq.cn/article/asmlfdi3pi_vepxpo3lu) 单元测试相关
 * [组件百科全书](https://github.com/storybookjs/storybook/) Storybook 近日启动了组件百科全书 (Component Encyclopedia) 项目，他们希望将世界各地的顶级 UI 组件编列在一个地方，供开发者在构建自己的项目时浏览、引用和重用。目前已经记录了来自 Airbnb、微软、Zendesk 等多家公司的 5132 个组件。
 * [前端工程师都应该掌握的抓包神器工具—会了真香！](https://mp.weixin.qq.com/s?__biz=MzkyOTE5NzQ2Nw==&mid=2247485859&idx=1&sn=aeef2b4d7194f494fd84179e34b79add&chksm=c20c7557f57bfc417d9c0389175887d694c13c44fe533aa44a11cc95aea32af3831c93effe75&token=1460237517&lang=zh_CN#rd) 抓包工具汇总
+* [远程桌面连接指南](https://mp.weixin.qq.com/s/edcTmruLfaEw59yGPvHDYA) 比较全面的 远程桌面 工具介绍
+* [favicon.io](https://favicon.io/) 网站图标 Favicon 的在线生成工具。
+* [YYEVA](https://github.com/yylive/yyeva) YY 直播的动画效果方案，涉及 iOS、安卓和 Web，包括 After Effects 插件和其他工具，可以先看仓库里面的系列介绍文章。
+* [Lorien](https://github.com/mbrlabs/Lorien) 一个绘图 + 笔记的画布软件，可以导出 SVG 格式。底层使用 Godot 游戏引擎，图形性能非常好，支持 Linux/Mac/Windows 系统。

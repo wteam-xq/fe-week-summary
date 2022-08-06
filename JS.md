@@ -42,4 +42,5 @@ JavaScript 中的日期处理很丑陋。自 1995 年第一个受 Java 启发的
 * [JS 运行机制最全面的一次梳理](https://mp.weixin.qq.com/s/PhuhUtQGz0uPxVrtNB4TCA) 本文适合有一定经验的前端人员，新手请规避，避免受到过多的概念冲击。
 * [ES 2022 正式发布！有哪些新特性？](https://mp.weixin.qq.com/s/83SxYXpxCilGypJUGKG9qw) 1）Top-level Await；2）Object.hasOwn()；3）at()；4）error.cause；5）正则表达式匹配索引；6）类
 * [你可能不知道的 Proxy](https://mp.weixin.qq.com/s/LFpHyiMHwsZ2aVKWqdM2hg) Vue3使用了Proxy实现的数据响应式， 本文讲解Proxy能实现代理的内部实现逻辑
+* [一篇让你完全够用TS的指南](https://juejin.cn/post/7088304364078497800) TS 比较全的学习文章
 

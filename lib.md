@@ -62,3 +62,4 @@ Server Component 叫服务端组件，目前还在开发过程中，没有正式
 * [干货 | 携程机票前端Svelte生产实践](https://mp.weixin.qq.com/s/QWwb8PXtdJJUKyicHRmBkw) 近期关于Svelte实践的干货博文，该框架重点在于 “轻”、“快”， 特别适合 H5活动页
 * [React Arborist](https://github.com/brimdata/react-arborist) 一个 React 树状视图组件，支持项目的拖拉和点击编辑。
 * [我对React实现原理的理解](https://mp.weixin.qq.com/s?__biz=Mzg3OTYzMDkzMg==&mid=2247490950&idx=1&sn=20deb0b336fc1b874cc03adb0e3ca746&chksm=cf00d2bdf8775bab1e034aff266080c34d7e1545354b2aa36e4a3b4b0728186694507052caae&token=903578161&lang=zh_CN#rd) React 实现原理 剖析
+* [snoopForms](https://snoopforms.com/)Typeform 的开源替代品，可以用它搭建在线问卷。
