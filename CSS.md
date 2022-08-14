@@ -60,6 +60,8 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 * [CSS Houdini：用浏览器引擎实现高级CSS效果](https://mp.weixin.qq.com/s/4owfsfX6bMzvgwvVxaCmzQ) Houdini 的出现最直接的目的是为了解决浏览器对新的CSS特性支持较差以及Cross-Browser的问题
 * [2022 推荐关注这个零运行时且支持 TS 的 CSS-in-JS 框架](https://mp.weixin.qq.com/s/OpCQJaSbzqWEykAh_qGJfQ) Vanilla Extract  是一个新的 CSS-in-JS 库，用来编写 CSS 样式文件，于 2021 年开源，在年度全球 CSS 报告中荣登 CSS-in-JS 满意度榜首。
 * [不需要 JS！仅用 CSS 也能达到监听页面滚动的效果！](https://mp.weixin.qq.com/s/aDJp-Vk2wsYRRFu7O8hkFg) 阴影一开始就出现，滚动过程中，阴影就自动就可见了，遮挡物正好又会被头部遮住，注意，遮挡物和内容是一起滚动！
+* [多行文本下的文字渐隐消失术](https://mp.weixin.qq.com/s/qADnUx3G2tKyMT7iv6qFwg) 文本消失效果，比较实用
+
 
 
 
