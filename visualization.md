@@ -26,3 +26,4 @@ Babylon.js 是一款国外应用较广泛的 WebGL 库，感兴趣的小伙伴�
 * [动手打造一款 canvas 排版引擎](https://mp.weixin.qq.com/s/8I4ZrXysU4NxLVd8Jvdcyg) 实现的库和实现思路都值得借鉴
 * [【雷火UX数据可视化】浅析网页动画](https://mp.weixin.qq.com/s/tia5gvOqILknMXBx8ebMrw) 常网页开发中使用最多的是CSS补间动画，这也能完成交互反馈等大多数的需求。
 * [S2](https://s2.antv.vision/zh/) 一个表格可视化引擎，可以为数据表制作各种各样的效果
+* [treevis.net](https://treevis.net/) 这个网站收集了300种数据可视化案例，可以当作自己选择可视化形式时的灵感。
