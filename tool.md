@@ -50,3 +50,6 @@
 * [favicon.io](https://favicon.io/) 网站图标 Favicon 的在线生成工具。
 * [YYEVA](https://github.com/yylive/yyeva) YY 直播的动画效果方案，涉及 iOS、安卓和 Web，包括 After Effects 插件和其他工具，可以先看仓库里面的系列介绍文章。
 * [Lorien](https://github.com/mbrlabs/Lorien) 一个绘图 + 笔记的画布软件，可以导出 SVG 格式。底层使用 Godot 游戏引擎，图形性能非常好，支持 Linux/Mac/Windows 系统。
+* [据意查句](https://wantquotes.net/) 清华大学推出了一个搜索引擎，根据关键词搜索相关的诗文。比如搜索“郁闷”，就会返回各种跟郁闷相关的句子。
+* [近义词搜索引擎](https://wantwords.net/) 查相关的汉字 或 英语
+* [必应壁纸](https://bing.wdbyte.com/2022-06.html) 作者爬取 必应 壁纸后 放到网站供下载

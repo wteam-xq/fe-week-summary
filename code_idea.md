@@ -41,5 +41,7 @@
 * [如何在React中应用SOLID原则？](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247503780&idx=1&sn=e8324e68d22db59490bcd951fb5834dc&chksm=fc7e81ffcb0908e906d7d242b1d99c2fbc348370ba9f10d88ef1c2c2bddeb1eb5b5654b3972e&token=1337558608&lang=zh_CN#rd) 1）单一职责原则（SRP）2）开放封闭原则（OCP）3）里氏替换原则（LSP）4）接口隔离原则（ISP）5）依赖倒置原则（DIP）
 * [互联网裁员潮下，教你如何写出在公司不可替代的代码！！](https://juejin.cn/post/7126888773647876110) 代码优化 反向博文
 * [我错了，CRDT 是未来（英文）](https://josephg.com/blog/crdts-are-the-future/) 这篇文章解释和比较了 CRDT 和 OT 这两种多人的实时同步算法，它们主要用来实现多人同时编辑文档。
+* [Hooks时代，如何写出高质量的react和vue组件？](https://mp.weixin.qq.com/s/_A3CmH9awg_2z3mCu8odQQ) React 转 Vue3 写法总结
+
 
 
