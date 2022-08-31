@@ -42,6 +42,7 @@
 * [互联网裁员潮下，教你如何写出在公司不可替代的代码！！](https://juejin.cn/post/7126888773647876110) 代码优化 反向博文
 * [我错了，CRDT 是未来（英文）](https://josephg.com/blog/crdts-are-the-future/) 这篇文章解释和比较了 CRDT 和 OT 这两种多人的实时同步算法，它们主要用来实现多人同时编辑文档。
 * [Hooks时代，如何写出高质量的react和vue组件？](https://mp.weixin.qq.com/s/_A3CmH9awg_2z3mCu8odQQ) React 转 Vue3 写法总结
+* [学会这10+个JavaScript 单行代码，让你的代码更优雅](https://mp.weixin.qq.com/s/ST4we1SBCjP_W-LT-k0Jag) 常用JS（ES6）等代码
 
 
 

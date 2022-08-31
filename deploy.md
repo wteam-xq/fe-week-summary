@@ -50,4 +50,5 @@ How，怎么定位解决问题，我们还需要收集系统等信息。
 * [迄今为止最全的前端监控体系搭建篇(长文预警)](https://mp.weixin.qq.com/s/7c0yqwSxK-FvLm1iKZrjmQ) 比较全的前端性能监控方案
 * [Jenkins 和 Kubernetes -云上的神秘代理 ](https://www.jenkins.io/zh/blog/2018/09/14/kubernetes-and-secret-agents/) Jenkins + K8s 实践
 * [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) 该仓库收集各种一行的 Bash 命令，用来完成各种不同的任务。
+* [Bundle-less 的思考和实践分享](https://mp.weixin.qq.com/s/nk5SN8AKwyFkUTEOiLCBdQ) 本文从拆包数量、no-bundle 服务和依赖产物的模块化分发三个角度介绍了 Bundle-less 目前的具体概念及应用
 

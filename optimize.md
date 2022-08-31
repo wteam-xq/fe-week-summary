@@ -48,3 +48,4 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [这⼀次彻底弄懂：React 服务端渲染](https://mp.weixin.qq.com/s/j2rB8qE5OOPmLHAS7qdCrQ) 关于服务端渲染 汇总比较全面的博文
 * [HTTP史记 - 从HTTP/1到HTTP/3](https://mp.weixin.qq.com/s/B7K00-wTUSmy87caDHRWFA) HTTP 0.9 到 HTTP 3.0 小总结
 * [前端研发的新基础设施 - Rust 🦀️](https://mp.weixin.qq.com/s/JOnz0IVWRm_bYWReACyWAg)  Atom 团队放弃维护 Atom，转身投入到一个新的轻量级、更快的编辑器 Zed 的开发，而这个编辑器最大的特点就是将全部基于 Rust 来构建。Rust 连续 7 年成为最受开发者喜欢的语言！
+* [精读《web reflow》](https://mp.weixin.qq.com/s/uaNTKwdXDSVLixF4Rz1H3Q) 网页重排（回流）是阻碍流畅性的重要原因之一
