@@ -51,4 +51,9 @@ How，怎么定位解决问题，我们还需要收集系统等信息。
 * [Jenkins 和 Kubernetes -云上的神秘代理 ](https://www.jenkins.io/zh/blog/2018/09/14/kubernetes-and-secret-agents/) Jenkins + K8s 实践
 * [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) 该仓库收集各种一行的 Bash 命令，用来完成各种不同的任务。
 * [Bundle-less 的思考和实践分享](https://mp.weixin.qq.com/s/nk5SN8AKwyFkUTEOiLCBdQ) 本文从拆包数量、no-bundle 服务和依赖产物的模块化分发三个角度介绍了 Bundle-less 目前的具体概念及应用
+* [基于storybook组件库的技术选型该怎么选??](https://mp.weixin.qq.com/s/xjY0d8eNTmAuCZKxKQeu7g) 组件技术文档技术选择，webpack5, vite 编译对比
+* [Monorepo 下的模块包设计实践](https://zhuanlan.zhihu.com/p/456483953) 组件库通常使用 rollup 打包，生成 esm、cjs、umd 三种包类型，同时要注意 React 组件库在版本不一致时的多实例问题
+* [前端 · 单元测试 · 初窥](https://mp.weixin.qq.com/s/REKt5JnbfJIQY0W9PhCPOA) 如何实现单元测试 入门教程
+* [前端构建效率优化之路](https://mp.weixin.qq.com/s/ORqdfZZ8qFyJdYTRwEULgQ) 实际项目构建速度优化实践总结
+
 

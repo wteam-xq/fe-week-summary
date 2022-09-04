@@ -33,4 +33,4 @@
 * [试图颠覆 JavaScript 生态？亲身试用新 JS 运行时 Bun 后，我觉得未来可期](https://mp.weixin.qq.com/s/Nd8_MSXOHPUM2GyvvpQfhg) 关于 Bun 的介绍【译文】
 * [2022 推荐关注这个零运行时且支持 TS 的 CSS-in-JS 框架](https://mp.weixin.qq.com/s/OpCQJaSbzqWEykAh_qGJfQ) Vanilla Extract  是一个新的 CSS-in-JS 库，用来编写 CSS 样式文件，于 2021 年开源，在年度全球 CSS 报告中荣登 CSS-in-JS 满意度榜首。
 * [Bun：Node.js 的替代品（英文）](https://semaphoreci.com/blog/javascript-bun#what-is-bun) Bun 是 Zig 语言写的 JavaScript 服务器运行环境，目标是兼容 Node.js，并且将打包器、转码器、包管理都包含在内。本文是对它的测评，最终评价很不错。
-
+* [他来了！性能吊打 Node.js 和 Deno 的新一代 javaScript 运行时！](https://mp.weixin.qq.com/s/mdBKAMqJ44xEg-QepNCQ4w) Bun.js 刚开源不到一个月就获得了 19.5k star！看起来马上就会成为 Node.js 和 Deno 的一大竞争对手了！ 只是beta版，它还有很长路要走！

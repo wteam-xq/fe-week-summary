@@ -64,3 +64,4 @@ Server Component 叫服务端组件，目前还在开发过程中，没有正式
 * [我对React实现原理的理解](https://mp.weixin.qq.com/s?__biz=Mzg3OTYzMDkzMg==&mid=2247490950&idx=1&sn=20deb0b336fc1b874cc03adb0e3ca746&chksm=cf00d2bdf8775bab1e034aff266080c34d7e1545354b2aa36e4a3b4b0728186694507052caae&token=903578161&lang=zh_CN#rd) React 实现原理 剖析
 * [snoopForms](https://snoopforms.com/)Typeform 的开源替代品，可以用它搭建在线问卷。
 * [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) 代码编辑器
+* [初探 Vue3 编译之美](https://mp.weixin.qq.com/s/teFxhgzag8k5EXVnccdMkA) Vue3 库分析博文

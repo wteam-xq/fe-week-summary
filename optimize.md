@@ -49,3 +49,5 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [HTTP史记 - 从HTTP/1到HTTP/3](https://mp.weixin.qq.com/s/B7K00-wTUSmy87caDHRWFA) HTTP 0.9 到 HTTP 3.0 小总结
 * [前端研发的新基础设施 - Rust 🦀️](https://mp.weixin.qq.com/s/JOnz0IVWRm_bYWReACyWAg)  Atom 团队放弃维护 Atom，转身投入到一个新的轻量级、更快的编辑器 Zed 的开发，而这个编辑器最大的特点就是将全部基于 Rust 来构建。Rust 连续 7 年成为最受开发者喜欢的语言！
 * [精读《web reflow》](https://mp.weixin.qq.com/s/uaNTKwdXDSVLixF4Rz1H3Q) 网页重排（回流）是阻碍流畅性的重要原因之一
+* [去掉 jQuery 后，我们的网站性能起飞，速度快了 17%](https://www.infoq.cn/article/koVBVMOUEzirP1iZWpww) 去掉JQ，使用原生JS 速度可以更快！
+* [React 官网为什么那么快？](https://juejin.cn/post/7128369638794231839) 简单讲解了浏览器渲染流程， 以及CSR、SSR、SSG、preload 等常见站点优化特性，值得收藏

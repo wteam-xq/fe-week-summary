@@ -53,3 +53,5 @@
 * [据意查句](https://wantquotes.net/) 清华大学推出了一个搜索引擎，根据关键词搜索相关的诗文。比如搜索“郁闷”，就会返回各种跟郁闷相关的句子。
 * [近义词搜索引擎](https://wantwords.net/) 查相关的汉字 或 英语
 * [必应壁纸](https://bing.wdbyte.com/2022-06.html) 作者爬取 必应 壁纸后 放到网站供下载
+* [浅析eslint原理](https://mp.weixin.qq.com/s/45-itfERV4R77WS0JL_Oew) eslint的核心rules
+
