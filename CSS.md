@@ -61,7 +61,5 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 * [2022 推荐关注这个零运行时且支持 TS 的 CSS-in-JS 框架](https://mp.weixin.qq.com/s/OpCQJaSbzqWEykAh_qGJfQ) Vanilla Extract  是一个新的 CSS-in-JS 库，用来编写 CSS 样式文件，于 2021 年开源，在年度全球 CSS 报告中荣登 CSS-in-JS 满意度榜首。
 * [不需要 JS！仅用 CSS 也能达到监听页面滚动的效果！](https://mp.weixin.qq.com/s/aDJp-Vk2wsYRRFu7O8hkFg) 阴影一开始就出现，滚动过程中，阴影就自动就可见了，遮挡物正好又会被头部遮住，注意，遮挡物和内容是一起滚动！
 * [多行文本下的文字渐隐消失术](https://mp.weixin.qq.com/s/qADnUx3G2tKyMT7iv6qFwg) 文本消失效果，比较实用
-
-
-
-
+* [CSS Grid 在 Figma 的应用](https://ishadeed.com/article/figma-css/) Figma 操作面板使用 CSS 网格来实现，作者详细介绍它的实现，网格原来还能这样用。
+* [来了，来了，CSS :has()伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) Chrome新支持的CSS特性介绍
