@@ -51,3 +51,5 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [精读《web reflow》](https://mp.weixin.qq.com/s/uaNTKwdXDSVLixF4Rz1H3Q) 网页重排（回流）是阻碍流畅性的重要原因之一
 * [去掉 jQuery 后，我们的网站性能起飞，速度快了 17%](https://www.infoq.cn/article/koVBVMOUEzirP1iZWpww) 去掉JQ，使用原生JS 速度可以更快！
 * [React 官网为什么那么快？](https://juejin.cn/post/7128369638794231839) 简单讲解了浏览器渲染流程， 以及CSR、SSR、SSG、preload 等常见站点优化特性，值得收藏
+* [一文彻底搞懂React 服务端渲染](https://mp.weixin.qq.com/s/kSOfWsbssDS_pTiMkuHN1w) React服务端渲染的原理 部分讲解较为详细
+

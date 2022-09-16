@@ -55,5 +55,6 @@ How，怎么定位解决问题，我们还需要收集系统等信息。
 * [Monorepo 下的模块包设计实践](https://zhuanlan.zhihu.com/p/456483953) 组件库通常使用 rollup 打包，生成 esm、cjs、umd 三种包类型，同时要注意 React 组件库在版本不一致时的多实例问题
 * [前端 · 单元测试 · 初窥](https://mp.weixin.qq.com/s/REKt5JnbfJIQY0W9PhCPOA) 如何实现单元测试 入门教程
 * [前端构建效率优化之路](https://mp.weixin.qq.com/s/ORqdfZZ8qFyJdYTRwEULgQ) 实际项目构建速度优化实践总结
+* [前端抢饭碗系列之初识Docker容器化部署](https://mp.weixin.qq.com/s/unaqvUt-opQJo8AdQDjQTw) Docker 入门博文
 
 

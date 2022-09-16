@@ -28,3 +28,4 @@ Babylon.js 是一款国外应用较广泛的 WebGL 库，感兴趣的小伙伴�
 * [S2](https://s2.antv.vision/zh/) 一个表格可视化引擎，可以为数据表制作各种各样的效果
 * [treevis.net](https://treevis.net/) 这个网站收集了300种数据可视化案例，可以当作自己选择可视化形式时的灵感。
 * [移动端可视化引擎 F2 架构设计之: 为什么要选用 JSX](https://mp.weixin.qq.com/s/EVLdnE28gBWR_dIFQ5mJIA)  总结下来，我们选用 JSX 就是看中 JSX 的可编程性、易扩展性、完整的结构描述和成熟的配套，不仅是当下对编程友好度、业务复杂度的考虑，还有未来面向搭建和智能化友好的 JSON， 都是一种很好的选择。
+* [AI 数字绘画 stable-diffusion 保姆级教程](https://mp.weixin.qq.com/s/Lpfobmr5N6G370a7CXlKhg) stable-diffusion 入门小教程
