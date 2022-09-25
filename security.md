@@ -20,4 +20,5 @@
 * [Meta 如何实现大规模无身份信息认证](https://mp.weixin.qq.com/s/N3Z91-Lj6w_j7Zv8hc7nnw) 匿名凭据服务（Anonymous Credential Service，ACS） 实现登录， 客户端创建令牌、进行盲签名，发服务端，服务端签名令牌返回，客户端执行非盲操作，客户端发送HMAC（Hash message authentication codes，散列过的消息认证代码）, 服务端检查HMAC 验证 shared_secret 对比本地计算的 shared_secret 以完成校验。
 * [React 的一些最佳安全实践](https://mp.weixin.qq.com/s/KNbOa19OOnP6Rh1Uk2iotw) React 注意的安全问题
 * [前天，知乎把你的信息藏在了截图里。](https://mp.weixin.qq.com/s/EykLVZA6MQ3kgKvZFKfR9g) 知乎水印事件， 数据安全相关
+* [Awesome Cloud Security 云安全资源汇总](https://wiki.teamssix.com/cloudsecurityresources/) 这个项目收集云安全领域的博客、公众号、文章、工具、书籍、视频等资源。
 

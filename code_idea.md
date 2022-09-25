@@ -44,5 +44,6 @@
 * [Hooks时代，如何写出高质量的react和vue组件？](https://mp.weixin.qq.com/s/_A3CmH9awg_2z3mCu8odQQ) React 转 Vue3 写法总结
 * [学会这10+个JavaScript 单行代码，让你的代码更优雅](https://mp.weixin.qq.com/s/ST4we1SBCjP_W-LT-k0Jag) 常用JS（ES6）等代码
 * [联机游戏原理入门即入土 -- 入门篇 ](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495741&idx=1&sn=140145af9fd8e838a5ded3200b3bd049&chksm=c160035df6178a4bf370378ab630ad924f589f307289f8bffb5056c2cf3db00b7945c02f9c05&token=1395032296&lang=zh_CN#rd) 单机游戏是了解别人的人生, 而联机游戏是体验另一种人生， 本文讲解 联机游戏设计入门篇
+* [一份详尽的 React re-render 指南](https://mp.weixin.qq.com/s/SH7N2f5ZhUhysQ7_G2s9rQ) 介绍一些避免 re-render 的重要开发模式，以及引起不必要 re-render 的反模式。
 
 
