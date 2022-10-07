@@ -44,4 +44,4 @@ JavaScript 中的日期处理很丑陋。自 1995 年第一个受 Java 启发的
 * [你可能不知道的 Proxy](https://mp.weixin.qq.com/s/LFpHyiMHwsZ2aVKWqdM2hg) Vue3使用了Proxy实现的数据响应式， 本文讲解Proxy能实现代理的内部实现逻辑
 * [一篇让你完全够用TS的指南](https://juejin.cn/post/7088304364078497800) TS 比较全的学习文章
 * [JS 模块化 ES6模块、CMD、AMD](https://juejin.cn/post/6844903955282165773) 还傻傻分不清 module.exports 和 export default 吗？
-
+* [JavaScript LocalStorage 完整指南](https://mp.weixin.qq.com/s?__biz=Mzg5NzcxMDY5Nw==&mid=2247488921&idx=1&sn=97b3065239c2b7399cd21d54d7697245&chksm=c06cfa9ff71b738981e10d37171bb1f7311ad2875319c33bd5cf8ff8e0df2bf23c313397d6ad&token=2113819192&lang=zh_CN#rd) 本文将详细介绍 localStorage 及其工作原理，以便你可以在应用程序中使用它。
