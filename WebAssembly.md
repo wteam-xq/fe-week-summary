@@ -16,3 +16,4 @@
 * [硬核冷知识：V8与WebAssembly不得不说的秘密](https://laocuicode.cn/daydream/2022/04/01/202241-%E7%A1%AC%E6%A0%B8%E5%86%B7%E7%9F%A5%E8%AF%86%EF%BC%9AWebAssembly/)
 * [WebAssembly最新进展与未来方向 - 视频](https://mp.weixin.qq.com/s/C_97w2Vrf1C_YspIG4fMIA) 有中文字幕，官方的阶段性小结
 * [Cutter - Web视频剪辑工具原理浅析](https://mp.weixin.qq.com/s/hNIY9Wbqnpg9QErbYqMUWQ) WebAssembly 运用于视频领域小结
+* [pcljs](https://pcljs.org/zh-cn/) 个工具将大型 C++ 库 Point Cloud Library (PCL) 编译为 WebAssembly，运行在浏览器中，供 JavaScript 调用。

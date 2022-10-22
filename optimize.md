@@ -52,4 +52,6 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [去掉 jQuery 后，我们的网站性能起飞，速度快了 17%](https://www.infoq.cn/article/koVBVMOUEzirP1iZWpww) 去掉JQ，使用原生JS 速度可以更快！
 * [React 官网为什么那么快？](https://juejin.cn/post/7128369638794231839) 简单讲解了浏览器渲染流程， 以及CSR、SSR、SSG、preload 等常见站点优化特性，值得收藏
 * [一文彻底搞懂React 服务端渲染](https://mp.weixin.qq.com/s/kSOfWsbssDS_pTiMkuHN1w) React服务端渲染的原理 部分讲解较为详细
+* [会用 Performance 工具，就能深入理解 Event Loop](https://mp.weixin.qq.com/s/22tS74K5JQr1V98Q4DPqJg) 性能优化 工具使用实践
+* [异步分片计算在腾讯文档的实践](https://mp.weixin.qq.com/s/d5M_-8XqFGYnpif7GQNmLA) React Scheduler 出来很久了，也有很多文章介绍，但在业务中真正能用到的地方很少。实现一个异步调度器很容易，也没什么技术难点，但对业务的提升是巨大的。
 

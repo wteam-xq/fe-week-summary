@@ -55,4 +55,7 @@
 * [必应壁纸](https://bing.wdbyte.com/2022-06.html) 作者爬取 必应 壁纸后 放到网站供下载
 * [浅析eslint原理](https://mp.weixin.qq.com/s/45-itfERV4R77WS0JL_Oew) eslint的核心rules
 * [Plasmo Framework：次世代的浏览器插件开发框架 ](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd)本文从 “广度”、“深度” 两个方面着手，帮助你全面的认识浏览器插件，并在合适的时候能够想起它、使用它，提高工作效率！
+* [mCaptcha](https://mcaptcha.org/) 一个开源的网络机器人识别工具（captcha），带有前端和后端。它的原理是工作量证明，如果对方发出大量请求，将不得不耗费大量计算资源。
+* [HTTPie](https://httpie.io/app) API 调试工具 HTTPie 推出的网页版。(在线版 Postman)
+
 
