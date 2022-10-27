@@ -66,3 +66,6 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 * [你可能不了解的CSS容器查询！！](http://www.muzhuangnet.com/show/53027.html) iShadeed 大神译文
 * [还在用定时器吗？借助 CSS 来监听事件](https://mp.weixin.qq.com/s/84eYQjIWk8W0hEgQ8daeSg) 使用CSS完成延时操作，较少JS代码
 * [如何保持网页图像的纵横比](https://jakearchibald.com/2022/img-aspect-ratio/) 作者详细讨论了，在网页图像加载之前，就提前留出图像空间的两种方法：CSS 的 aspect-ratio 属性，以及<img>的 height 和 width 属性。
+* [CSS 有了:has伪类可以做些什么？](https://mp.weixin.qq.com/s/OOUG_XA-YFByqTcWJurJxg) 兼容性要求需要 Chrome 101+，并且开始实验特性（105 + 正式支持），Safari 15.4+，Firefox 官方说开启实验特性可以支持，但是实测并没有（???）
+* [超强的纯 CSS 鼠标点击拖拽效果](https://mp.weixin.qq.com/s/pxeoY8yO2ipnfarIa8hK_g) 使用纯CSS实现拖拽效果
+

@@ -66,5 +66,6 @@ Server Component 叫服务端组件，目前还在开发过程中，没有正式
 * [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) 代码编辑器
 * [初探 Vue3 编译之美](https://mp.weixin.qq.com/s/teFxhgzag8k5EXVnccdMkA) Vue3 库分析博文
 * [「React 深入」一文吃透React v18 全部 Api（1.3w+ 字） ](https://mp.weixin.qq.com/s/Xm0xeWb_MUpHNnOyjBT0oQ) 想玩转React就必须知道React有什么，无论是否运用到，首先都要知道，提升思维广度～
+* [抛弃moment.js，基于date-fns封装日期相关utils](https://juejin.cn/post/7151050708094189582) 2022年了，如果项目中有用moment.js的可以用day.js代替减少体积做优化，新项目可以直接选择date-fns。
 
 
