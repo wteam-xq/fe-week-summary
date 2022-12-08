@@ -60,7 +60,7 @@ How，怎么定位解决问题，我们还需要收集系统等信息。
 * [前端切图仔可以看懂的自动化测试入门文章](https://mp.weixin.qq.com/s/YG6Yq3C0CifInSyP5OOQEw) 前端自动化测试 入门教程
 * [激荡二十年：HTTP API 的变迁](https://mp.weixin.qq.com/s/9TAYgS74yVdNmjduRycy4A) 客户端和服务器之间运行的 HTTP API 历史总结博文， 无论API 代码再如何简洁，只要代码在那里，就会有无穷尽的成本，因此，最好的 API 系统是不用撰写一行代码就能提供服务的 API 系统。
 * [构建 webpack5 知识体系【近万字总结】](https://mp.weixin.qq.com/s?__biz=MzA5MjQwMzQyNw==&mid=2650764789&idx=1&sn=db3cc80fe5321cfc857e61f971398352&chksm=88667679bf11ff6ffdda291c3d3504540a363a0a49e2eaed529cbc59e6cb26b85910448705be&token=2113819192&lang=zh_CN#rd) 比较全面的Webpack5 用法总结
-
+* [你只会用前端数据埋点 SDK 吗？](https://mp.weixin.qq.com/s/EE-bpsiuL8xkpmpYZEQcdQ) SDK 全称是 Software Development Kit 即 软件开发工具包， 数据埋点其实要考虑的就是 用户行为、错误警告、页面性能 三个核心方面；
 
 
 

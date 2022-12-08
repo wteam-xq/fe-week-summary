@@ -68,5 +68,6 @@ Server Component 叫服务端组件，目前还在开发过程中，没有正式
 * [「React 深入」一文吃透React v18 全部 Api（1.3w+ 字） ](https://mp.weixin.qq.com/s/Xm0xeWb_MUpHNnOyjBT0oQ) 想玩转React就必须知道React有什么，无论是否运用到，首先都要知道，提升思维广度～
 * [抛弃moment.js，基于date-fns封装日期相关utils](https://juejin.cn/post/7151050708094189582) 2022年了，如果项目中有用moment.js的可以用day.js代替减少体积做优化，新项目可以直接选择date-fns。
 * [Dub](https://github.com/steven-tey/dub) 一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接。
+* [React 中的重新渲染](https://mp.weixin.qq.com/s/ADx8PuNvg4xVVLBeh265kw) 总结较为全面的 React - setState 与 重新渲染关系博文
 
 

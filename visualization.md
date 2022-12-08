@@ -31,3 +31,4 @@ Babylon.js 是一款国外应用较广泛的 WebGL 库，感兴趣的小伙伴�
 * [AI 数字绘画 stable-diffusion 保姆级教程](https://mp.weixin.qq.com/s/Lpfobmr5N6G370a7CXlKhg) stable-diffusion 入门小教程
 * [Web 3D 从入门到跑路](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495888&idx=1&sn=e3d6540dca371132b0e866f1b4eb8ed7&chksm=c16003b0f6178aa634c8195516e9675d1e0ba273dbbd9f2be21ca311c3fc77ec77c18130f8d2&token=2113819192&lang=zh_CN#rd)
 * [一起来实现全景图 VR 吧！—— Three.js 系列](https://mp.weixin.qq.com/s?__biz=MzkyOTIxMDAzNw==&mid=2247492778&idx=1&sn=1a7713e29adb11e7cae535a00238a3df&chksm=c20faf70f578266625df9b230c34b574acea75b7a9ddadeac622fbc7a2777f0907eb1d630103&token=2113819192&lang=zh_CN#rd)
+* [你不知道的SVG](https://mp.weixin.qq.com/s/EwAeQ0jzsHlQ1x9SUZVt0A) SVG 用法总结，比较全面

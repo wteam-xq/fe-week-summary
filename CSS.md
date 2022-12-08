@@ -68,4 +68,4 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 * [如何保持网页图像的纵横比](https://jakearchibald.com/2022/img-aspect-ratio/) 作者详细讨论了，在网页图像加载之前，就提前留出图像空间的两种方法：CSS 的 aspect-ratio 属性，以及<img>的 height 和 width 属性。
 * [CSS 有了:has伪类可以做些什么？](https://mp.weixin.qq.com/s/OOUG_XA-YFByqTcWJurJxg) 兼容性要求需要 Chrome 101+，并且开始实验特性（105 + 正式支持），Safari 15.4+，Firefox 官方说开启实验特性可以支持，但是实测并没有（???）
 * [超强的纯 CSS 鼠标点击拖拽效果](https://mp.weixin.qq.com/s/pxeoY8yO2ipnfarIa8hK_g) 使用纯CSS实现拖拽效果
-
+* [除了 filter 还有什么置灰网站的方式？](https://mp.weixin.qq.com/s/pwXyZ-MAemaBhlPC6KM0hA) 需要全站置灰，使用 CSS 的 filter: grayscale()；仅仅需要首屏置灰的，可以使用 backdrop-filter: grayscale() 配合 pointer-events: none
