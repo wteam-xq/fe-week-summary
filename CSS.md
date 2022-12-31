@@ -73,4 +73,5 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 * [内有乾坤！大有学问的字体定义原理](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247494195&idx=1&sn=96e613dbd336f603b4fa217751684b8b&chksm=ce2689c5f95100d33d283599b841f8850e8dcd7c2015742e721dc37efbfccbbad8cd5a53ab23&token=805012839&lang=zh_CN#rd) CSS中 各种字体家族说明
 * [现代 CSS 之高阶图片渐隐消失术](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247494281&idx=1&sn=2a3e8083a0ada47f926d511b0163bf3c&chksm=ce26897ff951006910a52ae34695d3383e4ab90ab644ed97915e1d8a2067d87490a33e9cc550&token=805012839&lang=zh_CN#rd) 奇妙的 CSS MASK， 利用了 CSS @propery 和 mask，实现了一些原本看上去需要非常多 div 才能实现或者是需要借助 Canvas 才能实现的效果。
 * [你可能不需要 JavaScript（英文）](http://youmightnotneedjs.com/) 这个网站总结了一些常见场景，可以用 HTML + CSS 替代 JavaScript。
+* [一些常见的移动端适配方案，你了解吗？](https://mp.weixin.qq.com/s/NDdAOyxmnK6Ln-Yb1JhVRw) 总结较简单但实用
 
