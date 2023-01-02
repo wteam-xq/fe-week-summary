@@ -62,5 +62,11 @@ How，怎么定位解决问题，我们还需要收集系统等信息。
 * [构建 webpack5 知识体系【近万字总结】](https://mp.weixin.qq.com/s?__biz=MzA5MjQwMzQyNw==&mid=2650764789&idx=1&sn=db3cc80fe5321cfc857e61f971398352&chksm=88667679bf11ff6ffdda291c3d3504540a363a0a49e2eaed529cbc59e6cb26b85910448705be&token=2113819192&lang=zh_CN#rd) 比较全面的Webpack5 用法总结
 * [你只会用前端数据埋点 SDK 吗？](https://mp.weixin.qq.com/s/EE-bpsiuL8xkpmpYZEQcdQ) SDK 全称是 Software Development Kit 即 软件开发工具包， 数据埋点其实要考虑的就是 用户行为、错误警告、页面性能 三个核心方面；
 * [自己写插件控制 Webpack 的 Chunk 划分，想怎么分就怎么分](https://mp.weixin.qq.com/s?__biz=Mzg3OTYzMDkzMg==&mid=2247493292&idx=1&sn=dfc933d14b9d331fba19e6042ba84a05&chksm=cf032997f874a0818f4f28a79252b30b9ba6a258c3858ac2979ef27417f83757ac1b70fc18aa&token=805012839&lang=zh_CN#rd) webpack5 配置优化，主要讲解如何编写 webpack插件
+* [打包JavaScript库的现代化指南](https://mp.weixin.qq.com/s/m-i_Et6YqkZ0aj537vN2_A) 比较全面的打包JS指南
+```
+esm 是 “EcmaScript module” 的缩写。
+cjs 是 “CommonJS module” 的缩写。
+umd 是 “Universal Module Definition” 的缩写，它可以在 <script> 标签中执行、被 CommonJS 模块加载器加载、被 AMD 模块加载器加载。
+```
 
 

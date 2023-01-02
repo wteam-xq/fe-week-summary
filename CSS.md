@@ -74,4 +74,4 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 * [现代 CSS 之高阶图片渐隐消失术](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247494281&idx=1&sn=2a3e8083a0ada47f926d511b0163bf3c&chksm=ce26897ff951006910a52ae34695d3383e4ab90ab644ed97915e1d8a2067d87490a33e9cc550&token=805012839&lang=zh_CN#rd) 奇妙的 CSS MASK， 利用了 CSS @propery 和 mask，实现了一些原本看上去需要非常多 div 才能实现或者是需要借助 Canvas 才能实现的效果。
 * [你可能不需要 JavaScript（英文）](http://youmightnotneedjs.com/) 这个网站总结了一些常见场景，可以用 HTML + CSS 替代 JavaScript。
 * [一些常见的移动端适配方案，你了解吗？](https://mp.weixin.qq.com/s/NDdAOyxmnK6Ln-Yb1JhVRw) 总结较简单但实用
-
+* [现代 CSS 高阶技巧，完美的波浪进度条效果！](https://mp.weixin.qq.com/s/ixMp0Jqc_sfNMPDrCYnPPw) CSS如何实现波浪效果， 兼容性还有点问题
