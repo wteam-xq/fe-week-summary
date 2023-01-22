@@ -59,6 +59,6 @@
 * [HTTPie](https://httpie.io/app) API 调试工具 HTTPie 推出的网页版。(在线版 Postman)
 * [IconGo](https://icongo.github.io/) 开源的图标搜索引擎。
 * [INS](https://github.com/zhaoolee/ins) 这个仓库收集各种有用有趣的工具，并且每天用 GitHub Actions 检查链接的可用性。
-
+* [中国亲戚关系计算器](https://passer-by.com/relationship/) 该小程序上线了 Web 版，用来查询亲戚称呼，已收录80054条亲戚关系。
 
 

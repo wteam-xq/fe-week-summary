@@ -68,5 +68,4 @@ esm 是 “EcmaScript module” 的缩写。
 cjs 是 “CommonJS module” 的缩写。
 umd 是 “Universal Module Definition” 的缩写，它可以在 <script> 标签中执行、被 CommonJS 模块加载器加载、被 AMD 模块加载器加载。
 ```
-
-
+* [如何实现蓝绿发布（英文）](https://casparwre.de/blog/webapp-python-deployment/) 作者介绍如何在个人网站实现“蓝绿发布”。他有两台服务器，一台是生产服务器，另一台是备用服务器，总是发布到备用服务器，然后把流量切过去。
