@@ -71,5 +71,6 @@ Server Component 叫服务端组件，目前还在开发过程中，没有正式
 * [React 中的重新渲染](https://mp.weixin.qq.com/s/ADx8PuNvg4xVVLBeh265kw) 总结较为全面的 React - setState 与 重新渲染关系博文
 * [React Streaming SSR 原理解析](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247501565&idx=1&sn=b9488bb90455e33eb94ec379c46ce42b&chksm=cea971fcf9def8ea0f176bb06ab65ab4bcf20bfc605f8d728ca382a9de8e72cdfd7c1d1b0930&token=805012839&lang=zh_CN#rd) 关于React 18 新的 SSR 渲染模式： Streaming SSR 最详细的原理分析博文
 * [satori](https://github.com/vercel/satori) 这个 JS 库可以把 HTML 和 CSS 代码转为 SVG 图形，很适合为组件生成缩略图。
+* [TDesign](https://github.com/Tencent/tdesign) AntDesign竞品，腾讯出品
 
 

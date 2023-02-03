@@ -48,4 +48,4 @@
 * [如何优雅地编写一个高逼格的JS插件？](https://mp.weixin.qq.com/s?__biz=MzIzNjQ0MjcwNw==&mid=2247484294&idx=1&sn=f6595bc93cc374c0703e9b13fb31ad7b&chksm=e8d686badfa10facf82e4d62f513a3bca853d82eda2abe506ba580dc57db676c1a3ac435ec9b&token=795841537&lang=zh_CN#rd) 编写 JS 插件 入门指南
 * [浅谈柯里化](https://mp.weixin.qq.com/s/oEd2ZRosqAG_n-HYBNzllQ) 柯里化（英语：Currying ），又译为卡瑞化或加里化，是把接受多个参数的函数变换成接受一个单一参数（最初函数的第一个参数）的函数，并且返回接受余下的参数，而且返回结果的新函数的技术。
 * [不使用第三方库怎么实现【前端引导页】功能？](https://mp.weixin.qq.com/s/-O_AnG2pc5H5hLcwu9PTCA) 如何实现前端引导页功能
-
+* [算法工程师深度解构 ChatGPT 技术](https://mp.weixin.qq.com/s/QA8ZOtCDP1X2EKzpZCY0RA) ChatGPT 关键能力来自三个方面：强大的基座大模型能力（InstructGPT），高质量的真实数据（干净且丰富），强化学习（PPO算法）。

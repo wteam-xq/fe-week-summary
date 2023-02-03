@@ -69,3 +69,4 @@ cjs 是 “CommonJS module” 的缩写。
 umd 是 “Universal Module Definition” 的缩写，它可以在 <script> 标签中执行、被 CommonJS 模块加载器加载、被 AMD 模块加载器加载。
 ```
 * [如何实现蓝绿发布（英文）](https://casparwre.de/blog/webapp-python-deployment/) 作者介绍如何在个人网站实现“蓝绿发布”。他有两台服务器，一台是生产服务器，另一台是备用服务器，总是发布到备用服务器，然后把流量切过去。
+* [微前端究竟是什么？微前端核心技术揭秘！](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247534273&idx=1&sn=15f4dfb2e4c27f7b590c5794dd6ae218&chksm=eaa85c91dddfd5876305b3e0e5010af0800fcead06c4f657917badacd7a6e769330068a2f83c&token=953834215&lang=zh_CN#rd) 微前端定义：将多个独立的Web应用聚合到一起，提供统一的访问入口
