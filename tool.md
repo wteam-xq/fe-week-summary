@@ -60,5 +60,5 @@
 * [IconGo](https://icongo.github.io/) 开源的图标搜索引擎。
 * [INS](https://github.com/zhaoolee/ins) 这个仓库收集各种有用有趣的工具，并且每天用 GitHub Actions 检查链接的可用性。
 * [中国亲戚关系计算器](https://passer-by.com/relationship/) 该小程序上线了 Web 版，用来查询亲戚称呼，已收录80054条亲戚关系。
-
+* [cryptography](https://crypto-online.cn/playground/hash/) 作者将常用的一些密码学工具的 Web 版，比如生成密钥、哈希、解密加密等等，做在了一起方便使用
 

@@ -35,4 +35,5 @@
 * [Bun：Node.js 的替代品（英文）](https://semaphoreci.com/blog/javascript-bun#what-is-bun) Bun 是 Zig 语言写的 JavaScript 服务器运行环境，目标是兼容 Node.js，并且将打包器、转码器、包管理都包含在内。本文是对它的测评，最终评价很不错。
 * [他来了！性能吊打 Node.js 和 Deno 的新一代 javaScript 运行时！](https://mp.weixin.qq.com/s/mdBKAMqJ44xEg-QepNCQ4w) Bun.js 刚开源不到一个月就获得了 19.5k star！看起来马上就会成为 Node.js 和 Deno 的一大竞争对手了！ 只是beta版，它还有很长路要走！
 * [Node.js 19 的新功能（英文）](https://blog.appsignal.com/2022/11/15/nodejs-19-release-whats-new.html) 四项新功能
+* [go-get-folder-size](https://github.com/markthree/go-get-folder-size) 一个 Node.js 库，可以递归获取一个文件夹的大小，采用 Go 语言编写，要比 Node.js 原生实现快得多。
 
