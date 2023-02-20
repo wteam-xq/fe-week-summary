@@ -36,4 +36,17 @@
 * [他来了！性能吊打 Node.js 和 Deno 的新一代 javaScript 运行时！](https://mp.weixin.qq.com/s/mdBKAMqJ44xEg-QepNCQ4w) Bun.js 刚开源不到一个月就获得了 19.5k star！看起来马上就会成为 Node.js 和 Deno 的一大竞争对手了！ 只是beta版，它还有很长路要走！
 * [Node.js 19 的新功能（英文）](https://blog.appsignal.com/2022/11/15/nodejs-19-release-whats-new.html) 四项新功能
 * [go-get-folder-size](https://github.com/markthree/go-get-folder-size) 一个 Node.js 库，可以递归获取一个文件夹的大小，采用 Go 语言编写，要比 Node.js 原生实现快得多。
+* [2023 年值得关注的10大 Node.js 开源项目！](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247512141&idx=2&sn=b06bddcffd6271063e25f77ad6f2b838&chksm=fc7efe16cb097700379c4c2a781a78eb8d5cb90e6440c2755a81f5bb6a1f3e3671e6e4cb47bf#rd)
+```
+Next.js
+Nuxt.js
+Fastify-vite
+Mercurius
+Platformatic
+Prisma
+Redwood
+Strapi
+Herbs.js
+PNPM
+```
 

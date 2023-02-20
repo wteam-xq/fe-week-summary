@@ -77,3 +77,4 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 * [现代 CSS 高阶技巧，完美的波浪进度条效果！](https://mp.weixin.qq.com/s/ixMp0Jqc_sfNMPDrCYnPPw) CSS如何实现波浪效果， 兼容性还有点问题
 * [Flexbox 交互式指南（英文）](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) Demo 写的很漂亮
 * [2022 CSS 报表](https://2022.stateofcss.com/zh-Hans/) CSS 2022 使用调查报告
+* [深入了解 CSS 中的 :where() 和 :is() 函数](https://mp.weixin.qq.com/s?__biz=Mzg5NzcxMDY5Nw==&mid=2247489494&idx=1&sn=2fe2e1a332d4d35e12aec853f2328d92&chksm=c06cf8d0f71b71c6c28d612e62d26f4f7c59b01eef85f95070152b368c6ad65db6147d4d65c5#rd) 新CSS特性 用法详解
