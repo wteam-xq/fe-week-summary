@@ -72,5 +72,6 @@ Server Component 叫服务端组件，目前还在开发过程中，没有正式
 * [React Streaming SSR 原理解析](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247501565&idx=1&sn=b9488bb90455e33eb94ec379c46ce42b&chksm=cea971fcf9def8ea0f176bb06ab65ab4bcf20bfc605f8d728ca382a9de8e72cdfd7c1d1b0930&token=805012839&lang=zh_CN#rd) 关于React 18 新的 SSR 渲染模式： Streaming SSR 最详细的原理分析博文
 * [satori](https://github.com/vercel/satori) 这个 JS 库可以把 HTML 和 CSS 代码转为 SVG 图形，很适合为组件生成缩略图。
 * [TDesign](https://github.com/Tencent/tdesign) AntDesign竞品，腾讯出品
+* [彻底搞懂 React 18 并发机制的原理](https://mp.weixin.qq.com/s/mQ2xQi9K1d6idAAsQSw0Mw) React 18 最主要的特性就是并发了，很多 api 都是基于并发特性实现的。2022 年 3 月 29 日，React 18 正式版发布，已发布近一年；
 
 

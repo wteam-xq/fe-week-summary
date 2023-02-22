@@ -54,4 +54,6 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [一文彻底搞懂React 服务端渲染](https://mp.weixin.qq.com/s/kSOfWsbssDS_pTiMkuHN1w) React服务端渲染的原理 部分讲解较为详细
 * [会用 Performance 工具，就能深入理解 Event Loop](https://mp.weixin.qq.com/s/22tS74K5JQr1V98Q4DPqJg) 性能优化 工具使用实践
 * [异步分片计算在腾讯文档的实践](https://mp.weixin.qq.com/s/d5M_-8XqFGYnpif7GQNmLA) React Scheduler 出来很久了，也有很多文章介绍，但在业务中真正能用到的地方很少。实现一个异步调度器很容易，也没什么技术难点，但对业务的提升是巨大的。
+* [console.log 一定会导致内存泄漏？不打开 devtools 就不会](https://mp.weixin.qq.com/s/5a9hHVc024Pl3c3Lyp08eg) nodejs 打印的是序列化以后的对象，所以是没有内存泄漏，生产环境也是可以用 console.log 的，没有内存泄漏问题。
+* [性能优化经验分享](https://mp.weixin.qq.com/s/ZfIWKRbF3Yq7sNFG2TsQFw) 还在看那些老掉牙的性能优化文章么？这些最新性能指标了解下：FP & FCP、LCP、TTI、FID、TBT、CLS。关键指标： FCP/FID/CLS
 
