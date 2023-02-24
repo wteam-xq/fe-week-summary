@@ -78,3 +78,9 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 * [Flexbox 交互式指南（英文）](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) Demo 写的很漂亮
 * [2022 CSS 报表](https://2022.stateofcss.com/zh-Hans/) CSS 2022 使用调查报告
 * [深入了解 CSS 中的 :where() 和 :is() 函数](https://mp.weixin.qq.com/s?__biz=Mzg5NzcxMDY5Nw==&mid=2247489494&idx=1&sn=2fe2e1a332d4d35e12aec853f2328d92&chksm=c06cf8d0f71b71c6c28d612e62d26f4f7c59b01eef85f95070152b368c6ad65db6147d4d65c5#rd) 新CSS特性 用法详解
+* [现代 CSS 高阶技巧，不规则边框解决方案](https://mp.weixin.qq.com/s/wVbPXjIp71z2DA7szqjK1g) CSS 高阶技巧，可实现更多自定义CSS特性，Chrome 和 Edge 基于 Chromium[13] 内核的浏览器很早就已经支持，而主流浏览器中，Firefox 和 Safari 目前还不支持。CSS Houdini 虽然强大，目前看来要想大规模上生产环境，仍需一段时间的等待。让我们给时间一点时间！
+```
+Houdini 是一组 API，它们使开发人员可以直接访问 CSS 对象模型[4] （CSSOM），使开发人员可以编写浏览器可以解析为 CSS 的代码，从而创建新的 CSS 功能，而无需等待它们在浏览器中本地实现。
+```
+* [前端主题切换方案详解](https://mp.weixin.qq.com/s/KMFarLh0Xjl-NYmkxFZRrg)本文共讲解了5个方案，以及优缺点对比。
+

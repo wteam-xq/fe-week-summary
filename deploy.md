@@ -70,3 +70,5 @@ umd 是 “Universal Module Definition” 的缩写，它可以在 <script> 标�
 ```
 * [如何实现蓝绿发布（英文）](https://casparwre.de/blog/webapp-python-deployment/) 作者介绍如何在个人网站实现“蓝绿发布”。他有两台服务器，一台是生产服务器，另一台是备用服务器，总是发布到备用服务器，然后把流量切过去。
 * [微前端究竟是什么？微前端核心技术揭秘！](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247534273&idx=1&sn=15f4dfb2e4c27f7b590c5794dd6ae218&chksm=eaa85c91dddfd5876305b3e0e5010af0800fcead06c4f657917badacd7a6e769330068a2f83c&token=953834215&lang=zh_CN#rd) 微前端定义：将多个独立的Web应用聚合到一起，提供统一的访问入口
+* [​字节跳动埋点成本治理实践](https://mp.weixin.qq.com/s/tdbCYh0DiFGAzbjW7WTUKQ) 埋点治理的核心思想是把有限资源投入到有效数据上报中。
+* [ESLint 机制分析与简单插件实践](https://mp.weixin.qq.com/s/wYYDG7yU9h3-6DBYTCkuiA) 代码是写给人看的，所以一份好的代码，是要让水平不一的阅读者，都能够理解代码的本意。前端工程化的标准中有一项就是自动化，自动化当中就包括了代码规范自动化。本文讲解如何编写 eslint-plugin；

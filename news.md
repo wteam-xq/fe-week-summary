@@ -32,3 +32,4 @@
 * [ChatGPT](https://baijiahao.baidu.com/s?id=1751612028161285132&wfr=spider&for=pc) OpenAI 公司发布了一款 AI 聊天软件 ChatGPT, 它其实不能算聊天软件，更像是一个“问不倒先生”，不管什么问题，都能告诉你答案。
 * [编程神器 Copilot 被官司搞怕了？月收费 19 美元的商业版将提供辩护服务，最高索赔 50 万美元](https://mp.weixin.qq.com/s/ijPOyNeqzz7A9ZuUMJL9qg) Copilot 商业化 “虽迟但到”
 * [盘点2022年的12大科技故事](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655891891&idx=2&sn=9e6ba0bd0e0bf4eea3587c5319f204d6&chksm=bd75fc648a027572d525c77c0fdcbeb21338167bbaff5cc3dbc31d7ee0c6d2ad67a7af5acc86&scene=178&cur_album_id=2386311246146158592#rd) 2022 科技事件小总结
+* [TypeScript 5.0 beta 发布：新版 ES 装饰器、泛型参数的常量修饰、枚举增强等](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0ODIwMA==&mid=2247483974&idx=1&sn=617c9b83ba36e385613cf2e65559c09e&chksm=cfb23881f8c5b197c9971fdae74c841cb17a58a3197fa56df310d01b48c4fe038f41402ad4e8&token=938942970&lang=zh_CN#rd) TypeScript 已于 2023.01.26 发布 5.0 beta 版本
