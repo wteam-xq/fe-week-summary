@@ -73,5 +73,5 @@ Server Component 叫服务端组件，目前还在开发过程中，没有正式
 * [satori](https://github.com/vercel/satori) 这个 JS 库可以把 HTML 和 CSS 代码转为 SVG 图形，很适合为组件生成缩略图。
 * [TDesign](https://github.com/Tencent/tdesign) AntDesign竞品，腾讯出品
 * [彻底搞懂 React 18 并发机制的原理](https://mp.weixin.qq.com/s/mQ2xQi9K1d6idAAsQSw0Mw) React 18 最主要的特性就是并发了，很多 api 都是基于并发特性实现的。2022 年 3 月 29 日，React 18 正式版发布，已发布近一年；
-
+* [2023年你应该关注的JavaScript趋势](https://mp.weixin.qq.com/s/TGaW9crUrDC-l2mJOKl2Tw) 在2022年，React是继Node.js之后第二大最常用的框架。
 
