@@ -74,4 +74,6 @@ Server Component 叫服务端组件，目前还在开发过程中，没有正式
 * [TDesign](https://github.com/Tencent/tdesign) AntDesign竞品，腾讯出品
 * [彻底搞懂 React 18 并发机制的原理](https://mp.weixin.qq.com/s/mQ2xQi9K1d6idAAsQSw0Mw) React 18 最主要的特性就是并发了，很多 api 都是基于并发特性实现的。2022 年 3 月 29 日，React 18 正式版发布，已发布近一年；
 * [2023年你应该关注的JavaScript趋势](https://mp.weixin.qq.com/s/TGaW9crUrDC-l2mJOKl2Tw) 在2022年，React是继Node.js之后第二大最常用的框架。
+* [搞懂 useState 和 useEffect 的实现原理](https://mp.weixin.qq.com/s/zhaVGY1yrQB1fECiQMntaQ) 深入理解React常用语法的实现细节
+* [image-flow](https://github.com/one-piece-official/ImageFlow) 一个网页图片的动画特效的 React 组件，特效通过OpenGL ES 编写，在 GPU 执行。
 

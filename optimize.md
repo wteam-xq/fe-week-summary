@@ -57,5 +57,5 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [console.log 一定会导致内存泄漏？不打开 devtools 就不会](https://mp.weixin.qq.com/s/5a9hHVc024Pl3c3Lyp08eg) nodejs 打印的是序列化以后的对象，所以是没有内存泄漏，生产环境也是可以用 console.log 的，没有内存泄漏问题。
 * [性能优化经验分享](https://mp.weixin.qq.com/s/ZfIWKRbF3Yq7sNFG2TsQFw) 还在看那些老掉牙的性能优化文章么？这些最新性能指标了解下：FP & FCP、LCP、TTI、FID、TBT、CLS。关键指标： FCP/FID/CLS
 * [天猫汽车商详页的SSR改造实践](https://mp.weixin.qq.com/s/9HRmEICJX-m5AguD833SFQ) 淘宝技术汽车技术团队 页面 CSR -> SSR 优化实践总结
-
+* [HTML性能优化-Prerender2.0机制解读](https://mp.weixin.qq.com/s/VP-tnwWPMEB4PprqCsiXwg) 比较性的浏览器特性， 实际线上环境还不能使用，先mark
 

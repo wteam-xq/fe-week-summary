@@ -50,4 +50,5 @@ Herbs.js
 PNPM
 ```
 * [用 Node.js 手写 WebSocket 协议](https://mp.weixin.qq.com/s/S0GxZZ-vhZfV6YT5Du827Q)实时性较高的需求，我们会用 websocket 实现，比如即时通讯、游戏等场景。（ 原理图 绘制的不错，简单清晰；）
+* [Sharing](https://github.com/parvardegr/sharing) 一个命令行工具，生成一个二维码，可以把本机文件分享给局域网内的手机。（Node 版本16以上）
 

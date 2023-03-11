@@ -84,3 +84,5 @@ Houdini 是一组 API，它们使开发人员可以直接访问 CSS 对象模型
 ```
 * [前端主题切换方案详解](https://mp.weixin.qq.com/s/KMFarLh0Xjl-NYmkxFZRrg)本文共讲解了5个方案，以及优缺点对比。
 * [Chrome 发布新的 CSS 视口单位：svh、lvh、dvh！](https://mp.weixin.qq.com/s/A-PeoV1PzdvKFhv1N1RTbg) 移动设备上则不同。在那里，视口大小受动态工具栏的存在或不存在的影响。这些是用户界面，如地址栏和选项卡栏。
+* [CSS 的颜色格式（英文）](https://www.joshwcomeau.com/css/color-formats/#modern-color-formats-5) 这篇长文详细介绍 CSS 颜色的各种格式，如果想深入掌握如何表示颜色，推荐阅读这篇文章。
+
