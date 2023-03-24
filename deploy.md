@@ -72,3 +72,4 @@ umd 是 “Universal Module Definition” 的缩写，它可以在 <script> 标�
 * [微前端究竟是什么？微前端核心技术揭秘！](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247534273&idx=1&sn=15f4dfb2e4c27f7b590c5794dd6ae218&chksm=eaa85c91dddfd5876305b3e0e5010af0800fcead06c4f657917badacd7a6e769330068a2f83c&token=953834215&lang=zh_CN#rd) 微前端定义：将多个独立的Web应用聚合到一起，提供统一的访问入口
 * [​字节跳动埋点成本治理实践](https://mp.weixin.qq.com/s/tdbCYh0DiFGAzbjW7WTUKQ) 埋点治理的核心思想是把有限资源投入到有效数据上报中。
 * [ESLint 机制分析与简单插件实践](https://mp.weixin.qq.com/s/wYYDG7yU9h3-6DBYTCkuiA) 代码是写给人看的，所以一份好的代码，是要让水平不一的阅读者，都能够理解代码的本意。前端工程化的标准中有一项就是自动化，自动化当中就包括了代码规范自动化。本文讲解如何编写 eslint-plugin；
+* [Jenkins实现自动化构建与部署（超详细）](https://mp.weixin.qq.com/s?__biz=MzkxMjIwMzY3MA==&mid=2247484222&idx=1&sn=57bd0fb9df05ee0f5ae2e537498a97b6&chksm=c111c9c7f66640d109e9ac6f0f4412fd9d958242310611835a8b0806fbd8e31ca39d1d334d9d&scene=132#wechat_redirect) 从零到一搭建 Jenkins 详细教程博文

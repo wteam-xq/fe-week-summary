@@ -51,4 +51,10 @@ PNPM
 ```
 * [用 Node.js 手写 WebSocket 协议](https://mp.weixin.qq.com/s/S0GxZZ-vhZfV6YT5Du827Q)实时性较高的需求，我们会用 websocket 实现，比如即时通讯、游戏等场景。（ 原理图 绘制的不错，简单清晰；）
 * [Sharing](https://github.com/parvardegr/sharing) 一个命令行工具，生成一个二维码，可以把本机文件分享给局域网内的手机。（Node 版本16以上）
-
+* [2023 年的前端渲染框架 ](https://mp.weixin.qq.com/s/9o_9Bmq9oxuzeQ7HdQ_CiQ) Astro、Eleventy、Enhance、SvelteKit、Gatsby、Next.js、Nuxt、Remix 前端渲染Node框架对比
+* [Node.js 是如何跑起来的](https://mp.weixin.qq.com/s/_1YdX2wavRJhy2aOCsHP4w) NodeJS 源码分为三层：JS、C++ 以及 C。
+```
+JS 层提供面向用户的调用底层能力的接口，即各种 NodeJS 原生模块，如 net、http、fs、DNS 以及 path 等
+C++ 层主要通过 V8 为 JS 层提供与底层交互的能力，起到类似桥梁的作用，通过 V8 不仅实现 JS 的解释执行，还扩展的 JS 的能力边界
+C 层主要包括 Libuv 这一跨平台的异步 IO 库以及其他第三方 C 库
+```

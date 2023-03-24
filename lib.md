@@ -76,4 +76,9 @@ Server Component 叫服务端组件，目前还在开发过程中，没有正式
 * [2023年你应该关注的JavaScript趋势](https://mp.weixin.qq.com/s/TGaW9crUrDC-l2mJOKl2Tw) 在2022年，React是继Node.js之后第二大最常用的框架。
 * [搞懂 useState 和 useEffect 的实现原理](https://mp.weixin.qq.com/s/zhaVGY1yrQB1fECiQMntaQ) 深入理解React常用语法的实现细节
 * [image-flow](https://github.com/one-piece-official/ImageFlow) 一个网页图片的动画特效的 React 组件，特效通过OpenGL ES 编写，在 GPU 执行。
-
+* [ 这才是现代 JavaScript 库打包指南！ ](https://mp.weixin.qq.com/s/AiyVOwdYLwAecaJXqoGj6w) esm 被认为是“未来”，但 cjs 仍然在社区和生态系统中占有重要地位。umd 已经与 CommonJS 模块加载器兼容 —— 所以为什么还要同时具备 cjs 和 umd 输出呢？一个原因是，与 umd 文件相比，CommonJS 文件在对依赖进行条件导入时通常表现更好
+```
+esm 是“EcmaScript module”的缩写。
+cjs 是“CommonJS module”的缩写。
+umd 是“Universal Module Definition”的缩写，它可以在 <script> 标签中执行、被 CommonJS 模块加载器加载、被 AMD 模块加载器加载。
+```
