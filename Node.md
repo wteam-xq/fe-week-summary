@@ -58,3 +58,4 @@ JS 层提供面向用户的调用底层能力的接口，即各种 NodeJS 原生
 C++ 层主要通过 V8 为 JS 层提供与底层交互的能力，起到类似桥梁的作用，通过 V8 不仅实现 JS 的解释执行，还扩展的 JS 的能力边界
 C 层主要包括 Libuv 这一跨平台的异步 IO 库以及其他第三方 C 库
 ```
+* [Node.js v18 和 v19 的新功能（英文）](https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/) 本文简要介绍 Node.js v18 和 v19 新引入的一些重要功能。

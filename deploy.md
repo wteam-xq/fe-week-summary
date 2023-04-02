@@ -73,3 +73,4 @@ umd 是 “Universal Module Definition” 的缩写，它可以在 <script> 标�
 * [​字节跳动埋点成本治理实践](https://mp.weixin.qq.com/s/tdbCYh0DiFGAzbjW7WTUKQ) 埋点治理的核心思想是把有限资源投入到有效数据上报中。
 * [ESLint 机制分析与简单插件实践](https://mp.weixin.qq.com/s/wYYDG7yU9h3-6DBYTCkuiA) 代码是写给人看的，所以一份好的代码，是要让水平不一的阅读者，都能够理解代码的本意。前端工程化的标准中有一项就是自动化，自动化当中就包括了代码规范自动化。本文讲解如何编写 eslint-plugin；
 * [Jenkins实现自动化构建与部署（超详细）](https://mp.weixin.qq.com/s?__biz=MzkxMjIwMzY3MA==&mid=2247484222&idx=1&sn=57bd0fb9df05ee0f5ae2e537498a97b6&chksm=c111c9c7f66640d109e9ac6f0f4412fd9d958242310611835a8b0806fbd8e31ca39d1d334d9d&scene=132#wechat_redirect) 从零到一搭建 Jenkins 详细教程博文
+* [git submodule 和 git subtree，你会选择哪个来管理子项目？](https://mp.weixin.qq.com/s/Cm-xgtregfljwk6Ep9hSpw) git submodule 或者 git subtree 了。这俩都实现了一个 git 项目里引入了另一个 git 项目的功能。父项目只是记录了 gitmodules 的 url 和它最新的 commit，并不管具体内容是什么。
