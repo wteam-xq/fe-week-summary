@@ -58,4 +58,6 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [性能优化经验分享](https://mp.weixin.qq.com/s/ZfIWKRbF3Yq7sNFG2TsQFw) 还在看那些老掉牙的性能优化文章么？这些最新性能指标了解下：FP & FCP、LCP、TTI、FID、TBT、CLS。关键指标： FCP/FID/CLS
 * [天猫汽车商详页的SSR改造实践](https://mp.weixin.qq.com/s/9HRmEICJX-m5AguD833SFQ) 淘宝技术汽车技术团队 页面 CSR -> SSR 优化实践总结
 * [HTML性能优化-Prerender2.0机制解读](https://mp.weixin.qq.com/s/VP-tnwWPMEB4PprqCsiXwg) 比较性的浏览器特性， 实际线上环境还不能使用，先mark
+* [可能是全网最基础的前端项目优化，一站式、深度解读常用手法](https://juejin.cn/post/7215828320403095610) 23W代码项目性能优化实践分享
+
 
