@@ -21,4 +21,5 @@
 * [React 的一些最佳安全实践](https://mp.weixin.qq.com/s/KNbOa19OOnP6Rh1Uk2iotw) React 注意的安全问题
 * [前天，知乎把你的信息藏在了截图里。](https://mp.weixin.qq.com/s/EykLVZA6MQ3kgKvZFKfR9g) 知乎水印事件， 数据安全相关
 * [Awesome Cloud Security 云安全资源汇总](https://wiki.teamssix.com/cloudsecurityresources/) 这个项目收集云安全领域的博客、公众号、文章、工具、书籍、视频等资源。
+* [browsertunnel](https://github.com/veggiedefender/browsertunnel) 这个软件可以将用户信息，通过网页的 DNS 请求传回服务器。注意，不是 HTTP 请求，而是使用查询域名的 DNS 请求夹带额外信息。这种监视用户的方法，很难发现，也很难阻止。
 

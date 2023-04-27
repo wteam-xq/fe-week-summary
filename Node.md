@@ -59,3 +59,4 @@ C++ 层主要通过 V8 为 JS 层提供与底层交互的能力，起到类似�
 C 层主要包括 Libuv 这一跨平台的异步 IO 库以及其他第三方 C 库
 ```
 * [Node.js v18 和 v19 的新功能（英文）](https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/) 本文简要介绍 Node.js v18 和 v19 新引入的一些重要功能。
+* [基于 HTTP Range 实现文件分片并发下载！](https://mp.weixin.qq.com/s/J55UtidL_WI0zSJM1C7kXQ) Node 实现断点续传、切片上传 Demo讲解
