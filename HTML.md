@@ -19,5 +19,6 @@
 * [你不知道的 HTTP Referer](https://mp.weixin.qq.com/s/VcSq-xs2FkUiVduc8CG5mg) 通过这个 HTTP Referer，可以查到访客的来源。
 [details 元素的两个样式问题（英文）](https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/) HTML 网页的 details 元素有折叠效果，本文讨论怎么调整这个元素的样式。
 * [<template>：内容模板元素](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/template) HTML 新标签
-
+* [HTML 的新增标签<search>（英文）](https://html.spec.whatwg.org/multipage/grouping-content.html#the-search-element) HTML 的最新标准新增了<search>标签，它类似于<div>标签，用来放置搜索相关的元素。
+* [关于编码的那些事——前端应该了解的字符编码](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247497157&idx=1&sn=57f98b2e4843ec66752d657308f1082d&chksm=c16006a5f6178fb33968875d7127022cf0a4da87ac254b880507262b542b1ebf69a621b2393a&token=236307061&lang=zh_CN#rd) 各种字符编码详解
 

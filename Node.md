@@ -60,3 +60,4 @@ C 层主要包括 Libuv 这一跨平台的异步 IO 库以及其他第三方 C �
 ```
 * [Node.js v18 和 v19 的新功能（英文）](https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/) 本文简要介绍 Node.js v18 和 v19 新引入的一些重要功能。
 * [基于 HTTP Range 实现文件分片并发下载！](https://mp.weixin.qq.com/s/J55UtidL_WI0zSJM1C7kXQ) Node 实现断点续传、切片上传 Demo讲解
+* [Node.js 20 为啥要搞个权限模型？到底有啥用？](https://mp.weixin.qq.com/s/LrNYU6L-wfEYXZfB8uzjyg)4月18号，Node.js 发布了 V20 版本，当前处于 Current 状态，预计会在今年 10 月份进入长期支持状态。目前 Node.js 的权限模型还是相当初级的阶段，还有很多能力需要完善，比如可以限制服务的网络请求白名单，这样就可以避免 SSRF 漏洞等等

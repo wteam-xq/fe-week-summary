@@ -22,4 +22,5 @@
 * [前天，知乎把你的信息藏在了截图里。](https://mp.weixin.qq.com/s/EykLVZA6MQ3kgKvZFKfR9g) 知乎水印事件， 数据安全相关
 * [Awesome Cloud Security 云安全资源汇总](https://wiki.teamssix.com/cloudsecurityresources/) 这个项目收集云安全领域的博客、公众号、文章、工具、书籍、视频等资源。
 * [browsertunnel](https://github.com/veggiedefender/browsertunnel) 这个软件可以将用户信息，通过网页的 DNS 请求传回服务器。注意，不是 HTTP 请求，而是使用查询域名的 DNS 请求夹带额外信息。这种监视用户的方法，很难发现，也很难阻止。
+* [进行模糊测试，寻找另类的漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247488861&idx=1&sn=b5f54f689c4e1ac59910d76201eac58c&chksm=e8a61f3edfd1962862b88237a46be8357cefcd17712a8a5e4c75857205d5a941d83915
 
