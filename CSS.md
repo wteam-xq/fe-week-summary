@@ -87,4 +87,6 @@ Houdini 是一组 API，它们使开发人员可以直接访问 CSS 对象模型
 * [CSS 的颜色格式（英文）](https://www.joshwcomeau.com/css/color-formats/#modern-color-formats-5) 这篇长文详细介绍 CSS 颜色的各种格式，如果想深入掌握如何表示颜色，推荐阅读这篇文章。
 * [CSS 的 initial-letter 属性(英文)](https://developer.chrome.com/blog/control-your-drop-caps-with-css-initial-letter/)CSS 新增了一个initial-letter属性，用来设置首字母下沉的样式。
 * [Chrome 112 ：CSS 支持嵌套语法、document.domain 正式禁用！](https://mp.weixin.qq.com/s/0sC5Bk5_FAel6lq819_cYQ) 预处理框架（比如 Less、PostCSS）提供的能力 在新版本Chrome 112 正式提供支持
+* [妙用 background 实现花式文字效果 ](https://mp.weixin.qq.com/s/qIc-eYFs0pU3HCB85AgkKQ) CSS 实现炫酷的文字效果
+
 

@@ -48,3 +48,6 @@
 * [浅谈柯里化](https://mp.weixin.qq.com/s/oEd2ZRosqAG_n-HYBNzllQ) 柯里化（英语：Currying ），又译为卡瑞化或加里化，是把接受多个参数的函数变换成接受一个单一参数（最初函数的第一个参数）的函数，并且返回接受余下的参数，而且返回结果的新函数的技术。
 * [不使用第三方库怎么实现【前端引导页】功能？](https://mp.weixin.qq.com/s/-O_AnG2pc5H5hLcwu9PTCA) 如何实现前端引导页功能
 * [算法工程师深度解构 ChatGPT 技术](https://mp.weixin.qq.com/s/QA8ZOtCDP1X2EKzpZCY0RA) ChatGPT 关键能力来自三个方面：强大的基座大模型能力（InstructGPT），高质量的真实数据（干净且丰富），强化学习（PPO算法）。
+* [你的代码过度设计了吗？](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247492705&idx=1&sn=47a4d61ca02ed40d203b42d8eff02d43&chksm=cf3fd010f848590680ebbb6e29b31a7e8f9b321e3b6f8fd490339d6f38789f36115bb7b4b36f&token=672176664&lang=zh_CN#rd) 相比过程式代码的简单与易于修改，设计模式常常导致代码复杂，增加理解与修改的成本，我们称之为 “过度设计”。
+```
+而代码质量的提升怎么体现出来呢？两个方面：1、让代码读起来更容易；2、让代码写起来更简便。
