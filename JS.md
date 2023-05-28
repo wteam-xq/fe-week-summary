@@ -47,3 +47,12 @@ JavaScript 中的日期处理很丑陋。自 1995 年第一个受 Java 启发的
 * [JavaScript 装饰器进入 stage 3，是时候了解了！](https://mp.weixin.qq.com/s?__biz=MzU3NTg5MjU1Mw==&mid=2247485066&idx=1&sn=d3f1f7115037c920306385951e5cba74&chksm=fd1d7bacca6af2bae5d5195eea2351b665aaf92d46708ec06a29df1d570c3c20c7ea32328b00&token=953834215&lang=zh_CN#rd) 一个 @符号开头 + 方法名，这种写法正是 JavaScript 中的装饰器 Decorators，它附加在我们定义的类、类方法、类字段、类访问器、类自动访问器上，在不改变原对象基础上，为我们的程序增强一些功能，例如逻辑复用、代码解耦。
 * [不使用第三方库实现原生 JS 解析 excel 文件需要分几步](https://mp.weixin.qq.com/s/prSXuatNtABb64_yUmHjfg) JS 解析 excel 表格是如何实现：excel 文件其实是一个 zip 包, 解压后都是 xml 文件。1.使用 js 解压缩 excel 文件；2.获取到其中的 sheet 文件内容，然后将 xml 数据解析出来;3.将数据转换成我们想要的形状
 * [Web 浏览器引擎的历史（英文）](https://eylenburg.github.io/browser_engines.htm) 本文梳理历史上出现过的浏览器引擎。
+* [谈谈前端模块化的演变历程](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247514351&idx=2&sn=73a906c5ff06faa8a4acb5d9ea01c7e9&chksm=fc7ef6b4cb097fa24a04d7c78cd66c75678f2ca4e7bcec76845cd1689ebaa24af0132e8c9b31&token=372471149&lang=zh_CN#rd) JS 模块化详解
+```
+IIFE： 立即调用函数表达式
+AMD： 异步模块加载机制
+CMD： 通用模块定义
+UMD： 统一模块定义
+CommonJS： Node.js 采用该规范
+ES 模块： JavaScript 内置模块系统
+```
