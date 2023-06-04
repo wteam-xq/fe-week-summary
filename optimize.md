@@ -60,4 +60,5 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [HTML性能优化-Prerender2.0机制解读](https://mp.weixin.qq.com/s/VP-tnwWPMEB4PprqCsiXwg) 比较性的浏览器特性， 实际线上环境还不能使用，先mark
 * [可能是全网最基础的前端项目优化，一站式、深度解读常用手法](https://juejin.cn/post/7215828320403095610) 23W代码项目性能优化实践分享
 * [提升 Web 核心性能指标的 9 个建议](https://mp.weixin.qq.com/s/RVswilfm0MMOBGaMs_3b4g)  Chrome 团队花费了一年的时间确定了每个核心 Web 指标的三项最佳建议，这些建议对于大多数网站都是相关的，并且对于大多数开发人员来说也是实际可行的。
+* [《现代图片性能优化及体验优化指南》全集](https://mp.weixin.qq.com/s/LN-fBf-RigSfS_XtU_19JQ) 最新最全的图片性能优化总结博文
 

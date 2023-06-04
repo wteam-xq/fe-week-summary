@@ -34,4 +34,5 @@ Babylon.js 是一款国外应用较广泛的 WebGL 库，感兴趣的小伙伴�
 * [你不知道的SVG](https://mp.weixin.qq.com/s/EwAeQ0jzsHlQ1x9SUZVt0A) SVG 用法总结，比较全面
 * [像写CSS一样 写SVG](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg) 作者介绍他发明的一种新工具，可以改变 SVG 的写法，让手写 SVG 变得像写 CSS 一样。
 * [腾讯 PAG](https://v.qq.com/txp/iframe/player.html?vid=n3515fscu2f) 它的最大特点是跨平台，只要做一次动画，就能用在所有平台（手机、Web、小程序、Windows、Linux、Mac……）。PAG 这个名字就是“跨平台动画”（ Portable Animated Graphics）。
+* [转转 B 端项目页面性能统计实践](https://mp.weixin.qq.com/s/3eSXgZsuh0321SRFB5P1CA) 上报打点 技术层面指标 图绘制的不错， 上报打点可视化实践
 

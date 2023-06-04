@@ -88,5 +88,6 @@ Houdini 是一组 API，它们使开发人员可以直接访问 CSS 对象模型
 * [CSS 的 initial-letter 属性(英文)](https://developer.chrome.com/blog/control-your-drop-caps-with-css-initial-letter/)CSS 新增了一个initial-letter属性，用来设置首字母下沉的样式。
 * [Chrome 112 ：CSS 支持嵌套语法、document.domain 正式禁用！](https://mp.weixin.qq.com/s/0sC5Bk5_FAel6lq819_cYQ) 预处理框架（比如 Less、PostCSS）提供的能力 在新版本Chrome 112 正式提供支持
 * [妙用 background 实现花式文字效果 ](https://mp.weixin.qq.com/s/qIc-eYFs0pU3HCB85AgkKQ) CSS 实现炫酷的文字效果
+* [现代 CSS 解决方案：CSS 原生支持三角函数 | 构建 Amazing 效果](https://mp.weixin.qq.com/s/MbGWvJGZQ3lZEzLZhpGdmA) CSS 原生支持的三角函数，给 CSS 打开了更多的可能性。
 
 
