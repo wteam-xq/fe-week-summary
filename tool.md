@@ -64,4 +64,4 @@
 * [svg 压缩工具](https://github.com/svg/svgo) 熊猫压缩图网站不支持 svg 图尺寸压缩，该工具可支持，可与 [在线svg图压缩](https://www.iloveimg.com/zh-cn/compress-image/compress-svg) 对比使用
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) 熊猫压缩 VSCode 插件
 * [人工智能-ChatGPT整合在线工具](https://poe.com/) 
-
+ * [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) 用户提供两张图片，这个工具使用开源的 Stable Diffusion 模型，生成一段视频，内容是图片 A 逐渐变成图片 B。

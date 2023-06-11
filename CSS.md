@@ -89,5 +89,5 @@ Houdini 是一组 API，它们使开发人员可以直接访问 CSS 对象模型
 * [Chrome 112 ：CSS 支持嵌套语法、document.domain 正式禁用！](https://mp.weixin.qq.com/s/0sC5Bk5_FAel6lq819_cYQ) 预处理框架（比如 Less、PostCSS）提供的能力 在新版本Chrome 112 正式提供支持
 * [妙用 background 实现花式文字效果 ](https://mp.weixin.qq.com/s/qIc-eYFs0pU3HCB85AgkKQ) CSS 实现炫酷的文字效果
 * [现代 CSS 解决方案：CSS 原生支持三角函数 | 构建 Amazing 效果](https://mp.weixin.qq.com/s/MbGWvJGZQ3lZEzLZhpGdmA) CSS 原生支持的三角函数，给 CSS 打开了更多的可能性。
-
+ * [CSS 获取子项目数量的方法](https://ishadeed.com/article/conditional-css-has-nth-last-child/) 利用:has和:nth-last-child，可以在 CSS 获得容器里面子项目的数量（比如某个列表有多少项）。
 
