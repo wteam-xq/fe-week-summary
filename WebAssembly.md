@@ -18,3 +18,4 @@
 * [Cutter - Web视频剪辑工具原理浅析](https://mp.weixin.qq.com/s/hNIY9Wbqnpg9QErbYqMUWQ) WebAssembly 运用于视频领域小结
 * [pcljs](https://pcljs.org/zh-cn/) 个工具将大型 C++ 库 Point Cloud Library (PCL) 编译为 WebAssembly，运行在浏览器中，供 JavaScript 调用。
 * [WebAssembly 多语言/宿主环境中的使用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503275&idx=2&sn=a78e150a7ce9627d518cdc23105bed2c&chksm=cea97aaaf9def3bcb70f14661e5806f89899e2a166f3970616029a4fdd41ee1cf5da4b366755&token=236307061&lang=zh_CN#rd) 本文主要讲解WebAssembly (WASM)  如何运行在不同的宿主环境中, 。它是一种经过验证的，可以在 Web 中运行大型复杂应用程序的方法。
+* [WebAssembly 模块化与动态链接](https://mp.weixin.qq.com/s/MPBwFuL2CYFVXIowoB542A)  本文讲述WebAssembly 的模块化演进，介绍其模块化和动态链接的关键设计和实现，以及当前面临的挑战和未来的发展趋势。

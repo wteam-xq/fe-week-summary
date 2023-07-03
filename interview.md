@@ -4,3 +4,4 @@
 * [面试了十几个高级前端，竟然连（扁平数据结构转Tree）都写不出来](https://juejin.cn/post/6983904373508145189) 拖拽实现树形算法
 * [面试官：请用一句话描述 try catch 能捕获到哪些 JS 异常](https://juejin.cn/post/6844904143891464200) 关于JS try catch 技巧，有干货
 * [Vue3的响应式原理？一篇文章，八张图，三心为你解密~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487666&idx=1&sn=eeb84d739949af3544673f2713f0c504&chksm=ce460523f9318c351b15699534de9c2e3dcc12f54ec5bfbbc7fc9a8e71f9c194127204d7c00c&token=938942970&lang=zh_CN#rd) 面试常见问题，对Vue3响应式原理讲解比较好的一篇博文
+* [浏览器工作原理](https://juejin.cn/post/7204806134935306301?share_token=6b371c60-7928-4f4e-ab81-65ca4233333b) 面试经典题目答案

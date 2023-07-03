@@ -51,3 +51,5 @@
 * [你的代码过度设计了吗？](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247492705&idx=1&sn=47a4d61ca02ed40d203b42d8eff02d43&chksm=cf3fd010f848590680ebbb6e29b31a7e8f9b321e3b6f8fd490339d6f38789f36115bb7b4b36f&token=672176664&lang=zh_CN#rd) 相比过程式代码的简单与易于修改，设计模式常常导致代码复杂，增加理解与修改的成本，我们称之为 “过度设计”。
 ```
 而代码质量的提升怎么体现出来呢？两个方面：1、让代码读起来更容易；2、让代码写起来更简便。
+* [ChatGPT 的工作原理，这篇文章说清楚了！](https://mp.weixin.qq.com/s/gMYr8KwC_S3G4tKKMmjwxw) 关于 ChatGPT 原理讲解最清楚的博文
+

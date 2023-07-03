@@ -90,4 +90,7 @@ Houdini 是一组 API，它们使开发人员可以直接访问 CSS 对象模型
 * [妙用 background 实现花式文字效果 ](https://mp.weixin.qq.com/s/qIc-eYFs0pU3HCB85AgkKQ) CSS 实现炫酷的文字效果
 * [现代 CSS 解决方案：CSS 原生支持三角函数 | 构建 Amazing 效果](https://mp.weixin.qq.com/s/MbGWvJGZQ3lZEzLZhpGdmA) CSS 原生支持的三角函数，给 CSS 打开了更多的可能性。
  * [CSS 获取子项目数量的方法](https://ishadeed.com/article/conditional-css-has-nth-last-child/) 利用:has和:nth-last-child，可以在 CSS 获得容器里面子项目的数量（比如某个列表有多少项）。
+* [CSS 奇思妙想边框动画](https://mp.weixin.qq.com/s/NDJEexaiDcfEXeNMQrA79A)  关于CSS边框效果实现很不错的小汇总
+* [花里胡哨的背景渐变](https://mp.weixin.qq.com/s/3hpXLcF9GzBl5KR1JT4n2Q) CSS 常用渐变写法梳理
+
 
