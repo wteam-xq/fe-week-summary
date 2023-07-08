@@ -62,3 +62,4 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [提升 Web 核心性能指标的 9 个建议](https://mp.weixin.qq.com/s/RVswilfm0MMOBGaMs_3b4g)  Chrome 团队花费了一年的时间确定了每个核心 Web 指标的三项最佳建议，这些建议对于大多数网站都是相关的，并且对于大多数开发人员来说也是实际可行的。
 * [《现代图片性能优化及体验优化指南》全集](https://mp.weixin.qq.com/s/LN-fBf-RigSfS_XtU_19JQ) 最新最全的图片性能优化总结博文
 * [我把文件重新编码后，加载速度提升 300%！](https://juejin.cn/post/7244498421284225085)  性能优化： 文件流方式减小体积，文件压缩相关
+* [如何删除未使用的 CSS 代码？](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247515344&idx=2&sn=9d27a6cbfea7cbc07fcd8d7cdc1135c1&chksm=fc7ef28bcb097b9d03a80c66e219b2c3b175c51ea517dc6e7f9869af4d2d3b1a00f4dea26f5d&token=2133551871&lang=zh_CN#rd) 本文将介绍一种强大的工具——PurgeCSS，它可以自动检测和删除未使用的 CSS 代码。

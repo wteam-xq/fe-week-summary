@@ -24,3 +24,4 @@ Google在2018年发布了Flutter 1.0
 ```
 * [我零基础独立开发一个 Web/Hybrid 项目的经历](https://imf.ms/web/2022/07/05/my-first-web-hybird-project-experience/) 适合后端同学参考
 * [Tauri 系列：打造属于自己的下一代跨端应用](https://www.zhihu.com/column/c_1519079232848785408) 一组中文系列文章，介绍如何用 Tauri 开发一个跨平台桌面应用。Tauri 是 Electron 的替代品，使用平台自带的 WebView。
+* [Tauri：跨平台探索之旅](https://mp.weixin.qq.com/s/dxb3SxAv1u02qwxXCmnolQ) Tauri：跨平台探索之旅， Tauri 是一个跨平台 GUI 框架，与 Electron 的思想基本类似。都是属于跨平台技术的解决方案。

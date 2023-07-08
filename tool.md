@@ -65,3 +65,4 @@
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) 熊猫压缩 VSCode 插件
 * [人工智能-ChatGPT整合在线工具](https://poe.com/) 
  * [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) 用户提供两张图片，这个工具使用开源的 Stable Diffusion 模型，生成一段视频，内容是图片 A 逐渐变成图片 B。
+* [分享 10 个你可能不知道的 Devtools 技巧！](https://mp.weixin.qq.com/s?__biz=Mzk0MDMwMzQyOA==&mid=2247498191&idx=1&sn=25493523d55ac10481aca455efc328d5&chksm=c2e10ce4f59685f2cf7d7414d407827038ec6f2203d40235735bba1e1b0ef055a7a2253266b7&token=2133551871&lang=zh_CN#rd) Chrome 实用的调试技巧分享
