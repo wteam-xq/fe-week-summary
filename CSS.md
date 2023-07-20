@@ -92,5 +92,5 @@ Houdini 是一组 API，它们使开发人员可以直接访问 CSS 对象模型
  * [CSS 获取子项目数量的方法](https://ishadeed.com/article/conditional-css-has-nth-last-child/) 利用:has和:nth-last-child，可以在 CSS 获得容器里面子项目的数量（比如某个列表有多少项）。
 * [CSS 奇思妙想边框动画](https://mp.weixin.qq.com/s/NDJEexaiDcfEXeNMQrA79A)  关于CSS边框效果实现很不错的小汇总
 * [花里胡哨的背景渐变](https://mp.weixin.qq.com/s/3hpXLcF9GzBl5KR1JT4n2Q) CSS 常用渐变写法梳理
-
+* [【第2996期】WWDC2023 - CSS有什么新东西](https://mp.weixin.qq.com/s/20opND1fIOSu0cISWU6m5w) 【译文】类似AI翻译文章，保留了很多英语单词， 但作为2023 CSS新特性总结还是有收藏价值
 

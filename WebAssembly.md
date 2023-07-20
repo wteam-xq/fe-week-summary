@@ -19,3 +19,9 @@
 * [pcljs](https://pcljs.org/zh-cn/) 个工具将大型 C++ 库 Point Cloud Library (PCL) 编译为 WebAssembly，运行在浏览器中，供 JavaScript 调用。
 * [WebAssembly 多语言/宿主环境中的使用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503275&idx=2&sn=a78e150a7ce9627d518cdc23105bed2c&chksm=cea97aaaf9def3bcb70f14661e5806f89899e2a166f3970616029a4fdd41ee1cf5da4b366755&token=236307061&lang=zh_CN#rd) 本文主要讲解WebAssembly (WASM)  如何运行在不同的宿主环境中, 。它是一种经过验证的，可以在 Web 中运行大型复杂应用程序的方法。
 * [WebAssembly 模块化与动态链接](https://mp.weixin.qq.com/s/MPBwFuL2CYFVXIowoB542A)  本文讲述WebAssembly 的模块化演进，介绍其模块化和动态链接的关键设计和实现，以及当前面临的挑战和未来的发展趋势。
+* [WebAssembly 调试原理和方法简介](https://mp.weixin.qq.com/s/kCfe3sbUgmhzLqD2cLddjQ) 本文围绕 WebAssembly 的源码调试，阐述若干相关的问题
+```
+1）使用Chrome调试 AssemblyScript
+2）lldb+wasmtime 调试原生代码
+3）独立工具WasmInspect调试
+```
