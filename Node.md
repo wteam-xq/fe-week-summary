@@ -64,3 +64,4 @@ C 层主要包括 Libuv 这一跨平台的异步 IO 库以及其他第三方 C �
 * [浏览器中跑 Node 已在Safari中支持](https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-safari/) 在浏览器端跑 Node.js 的尝试 Web Container，已经支持在 Safari 中运行了。
 * [收藏！10 个 React Server Component + Next.js 开源项目分享 ](https://mp.weixin.qq.com/s?__biz=MzU3NTg5MjU1Mw==&mid=2247485218&idx=1&sn=bd938bbb40360c8d26011e992c5e4d33&chksm=fd1d7a04ca6af312e09fdec07a60806e5f765cf3220df7a7354f1e0737fe089ed1500504f5af&token=372471149&lang=zh_CN#rd) 推荐一些 RSC + Next.js App Router 相结合的开源项目示例
 * [Deno 支持 npm 打包](https://deno.com/blog/v1.34) Deno 1.34 版引入了一个新功能，可以把 Node.js 程序和 npm 模块打包，成为一个二进制文件，支持 Windows/Mac/Linux 全平台。
+* [关于Node.js调试，你需要了解的一切](https://mp.weixin.qq.com/s/rSr6RvJqR_vpiaWlFwk7DA) Node调试总结
