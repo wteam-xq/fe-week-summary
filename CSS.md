@@ -93,4 +93,4 @@ Houdini 是一组 API，它们使开发人员可以直接访问 CSS 对象模型
 * [CSS 奇思妙想边框动画](https://mp.weixin.qq.com/s/NDJEexaiDcfEXeNMQrA79A)  关于CSS边框效果实现很不错的小汇总
 * [花里胡哨的背景渐变](https://mp.weixin.qq.com/s/3hpXLcF9GzBl5KR1JT4n2Q) CSS 常用渐变写法梳理
 * [【第2996期】WWDC2023 - CSS有什么新东西](https://mp.weixin.qq.com/s/20opND1fIOSu0cISWU6m5w) 【译文】类似AI翻译文章，保留了很多英语单词， 但作为2023 CSS新特性总结还是有收藏价值
-
+* [TQL，巧用 CSS 实现动态线条 Loading 动画 ](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495991&idx=1&sn=fa13fcd2547b285cef912f8808e630ce&chksm=ce2692c1f9511bd73e49442c15f7fed81d4a010851671015e1b72b9d4620a1c7b2236e1700c1&token=1017773523&lang=zh_CN#rd) 使用CSS 实现 loading 动画的三种方式
