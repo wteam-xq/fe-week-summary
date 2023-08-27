@@ -94,3 +94,11 @@ Houdini 是一组 API，它们使开发人员可以直接访问 CSS 对象模型
 * [花里胡哨的背景渐变](https://mp.weixin.qq.com/s/3hpXLcF9GzBl5KR1JT4n2Q) CSS 常用渐变写法梳理
 * [【第2996期】WWDC2023 - CSS有什么新东西](https://mp.weixin.qq.com/s/20opND1fIOSu0cISWU6m5w) 【译文】类似AI翻译文章，保留了很多英语单词， 但作为2023 CSS新特性总结还是有收藏价值
 * [TQL，巧用 CSS 实现动态线条 Loading 动画 ](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495991&idx=1&sn=fa13fcd2547b285cef912f8808e630ce&chksm=ce2692c1f9511bd73e49442c15f7fed81d4a010851671015e1b72b9d4620a1c7b2236e1700c1&token=1017773523&lang=zh_CN#rd) 使用CSS 实现 loading 动画的三种方式
+* [CSS 折叠翻页效果(英文)](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/) 本文介绍如何只使用 CSS 实现折纸一般的翻页效果。
+* [CSS 的 will-change，为什么有时候能优化几十倍的性能？](https://mp.weixin.qq.com/s/1naBan05jvfA3yKiZ3B16Q) 加上will-change能使得动画流畅, 避免滥用；
+```
+iphone上使用will-change会导致图片模糊、文字模糊问题;
+1. 不要给大量的元素添加will-change，这会导致创建大量的复合层
+2. 注意使用的时机，在需要进行重绘/重排行为的时候，才考虑加上will-change，使用完后需要再适当的时机移除，释放浏览器资源
+3. 是否真的需要will-change，如果页面在性能方面没什么问题，没有必要放个will-change来换取那微乎其微的收益，如果收益客观，可加，如果加与不加，差别不大，没必要
+```

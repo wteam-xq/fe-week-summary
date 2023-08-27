@@ -53,3 +53,4 @@
 而代码质量的提升怎么体现出来呢？两个方面：1、让代码读起来更容易；2、让代码写起来更简便。
 * [ChatGPT 的工作原理，这篇文章说清楚了！](https://mp.weixin.qq.com/s/gMYr8KwC_S3G4tKKMmjwxw) 关于 ChatGPT 原理讲解最清楚的博文
 * [让你 React 组件水平暴增的 5 个技巧](https://mp.weixin.qq.com/s?__biz=Mzg3OTYzMDkzMg==&mid=2247496859&idx=1&sn=6f822d3df9763654faf83f11d1a886c5&chksm=cf033ba0f874b2b61c7ac9973cf439edc0167f2ccf1c177aaf9cad10118b9ef743febb9bbe36&token=2133551871&lang=zh_CN#rd) 1、透传 className、style；2、通过 forwardRef 暴露一些方法；3、useCallback、useMemo；4、用 Context 来跨组件传递值；5、React.Children、React.cloneElement
+* [作为一个前端为什么要学习 Rust ？](https://juejin.cn/post/7264582065869127732?share_token=5387e7bf-cfec-4123-bb63-cc851a86dc72) 性能、跨平台特性、安全性、职业视野、职业竞争力
