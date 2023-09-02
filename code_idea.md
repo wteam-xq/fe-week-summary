@@ -51,6 +51,9 @@
 * [你的代码过度设计了吗？](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247492705&idx=1&sn=47a4d61ca02ed40d203b42d8eff02d43&chksm=cf3fd010f848590680ebbb6e29b31a7e8f9b321e3b6f8fd490339d6f38789f36115bb7b4b36f&token=672176664&lang=zh_CN#rd) 相比过程式代码的简单与易于修改，设计模式常常导致代码复杂，增加理解与修改的成本，我们称之为 “过度设计”。
 ```
 而代码质量的提升怎么体现出来呢？两个方面：1、让代码读起来更容易；2、让代码写起来更简便。
+```
 * [ChatGPT 的工作原理，这篇文章说清楚了！](https://mp.weixin.qq.com/s/gMYr8KwC_S3G4tKKMmjwxw) 关于 ChatGPT 原理讲解最清楚的博文
 * [让你 React 组件水平暴增的 5 个技巧](https://mp.weixin.qq.com/s?__biz=Mzg3OTYzMDkzMg==&mid=2247496859&idx=1&sn=6f822d3df9763654faf83f11d1a886c5&chksm=cf033ba0f874b2b61c7ac9973cf439edc0167f2ccf1c177aaf9cad10118b9ef743febb9bbe36&token=2133551871&lang=zh_CN#rd) 1、透传 className、style；2、通过 forwardRef 暴露一些方法；3、useCallback、useMemo；4、用 Context 来跨组件传递值；5、React.Children、React.cloneElement
 * [作为一个前端为什么要学习 Rust ？](https://juejin.cn/post/7264582065869127732?share_token=5387e7bf-cfec-4123-bb63-cc851a86dc72) 性能、跨平台特性、安全性、职业视野、职业竞争力
+* [为什么开发者喜欢 Rust 语言？（英文）](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/) GitHub 官网的博客文章，分析 Rust 语言受欢迎的原因，为什么能在短短几年内快速崛起。 2006年开始，2010年Rust宣布出道，2015年发布1.0版本；2023年全球有280万Rust开发者，位居最受青睐的语言列表榜首；
+* [分享能提高开发效率，提高代码质量的八个前端装饰器函数~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490056&idx=1&sn=9dcbf2cae914a557477b070fb8a50fdb&chksm=ce460f99f931868f29cbf105427ce58e456fb618cb776dc55cf108e456ff5b82fb263bfd4d58&token=263092570&lang=zh_CN#rd) 实用 前端装饰器函数 分享

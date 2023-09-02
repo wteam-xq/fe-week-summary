@@ -102,3 +102,6 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 2. 注意使用的时机，在需要进行重绘/重排行为的时候，才考虑加上will-change，使用完后需要再适当的时机移除，释放浏览器资源
 3. 是否真的需要will-change，如果页面在性能方面没什么问题，没有必要放个will-change来换取那微乎其微的收益，如果收益客观，可加，如果加与不加，差别不大，没必要
 ```
+* [如何用 CSS 实现随机数（英文）](https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/) 作者演示了 CSS 生成随机数的一种方法，不过相当复杂，留在这里备查
+* [2023 CSS 现状调查结果新鲜出炉，带你看看 CSS 生态圈最新技术趋势！](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247522758&idx=1&sn=a459cf7e439b87b8d26c927c98b91036&chksm=fc7ed79dcb095e8b2883276dbb738e1a3241f05567ea212d343956f2bd88341afa2b611d6994&token=263092570&lang=zh_CN#rd) 8 月 26 日，2023 年度 State of CSS 调查（CSS 现状调查）结果正式公布！2023 年 CSS 状况调查于 2023 年 6 月 15 日至 7 月 15 日进行，共收到了 9108 份回复。
+* [纳尼！！CSS 也能实现碰撞检测？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496393&idx=1&sn=132c1466734e11af309ee9ce78f9203c&chksm=ce26913ff95118298b390c6068849d6364920f5190e39d8b6659d4b3216fe99111aec20a080c&token=263092570&lang=zh_CN#rd) 如何在碰撞的瞬间，实现颜色的切换？知道每一轮 X、Y 方向上的动画时长的，那我们只需要在每次这个结点上，切换一次颜色即可。
