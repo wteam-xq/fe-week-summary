@@ -66,3 +66,4 @@ C 层主要包括 Libuv 这一跨平台的异步 IO 库以及其他第三方 C �
 * [Deno 支持 npm 打包](https://deno.com/blog/v1.34) Deno 1.34 版引入了一个新功能，可以把 Node.js 程序和 npm 模块打包，成为一个二进制文件，支持 Windows/Mac/Linux 全平台。
 * [关于Node.js调试，你需要了解的一切](https://mp.weixin.qq.com/s/rSr6RvJqR_vpiaWlFwk7DA) Node调试总结
 * [Node.js 终于原生支持。env 文件了！](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247522812&idx=1&sn=366c4c8b2bc28b6b67d8b1f20af5c268&chksm=fc7ed7a7cb095eb1dab47b73400fefaab43abb63343523e947dd6404bbd8311b1140f512f019&token=263092570&lang=zh_CN#rd) Node.js 20.6 版本将原生支持 .env 文件，该版本计划于 8 月 28 日发布。
+* [解析 Node.js 镜像原理，轻松构建高效 CI/CD 流程](https://mp.weixin.qq.com/s/4lj3VAVwKL9aaMgFqFDifg) Node环境介绍、Linux各版本简介
