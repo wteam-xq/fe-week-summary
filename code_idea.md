@@ -58,3 +58,4 @@
 * [为什么开发者喜欢 Rust 语言？（英文）](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/) GitHub 官网的博客文章，分析 Rust 语言受欢迎的原因，为什么能在短短几年内快速崛起。 2006年开始，2010年Rust宣布出道，2015年发布1.0版本；2023年全球有280万Rust开发者，位居最受青睐的语言列表榜首；
 * [分享能提高开发效率，提高代码质量的八个前端装饰器函数~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490056&idx=1&sn=9dcbf2cae914a557477b070fb8a50fdb&chksm=ce460f99f931868f29cbf105427ce58e456fb618cb776dc55cf108e456ff5b82fb263bfd4d58&token=263092570&lang=zh_CN#rd) 实用 前端装饰器函数 分享
 * [从VS Code看优秀插件系统的设计思路](https://mp.weixin.qq.com/s/rf-onLvIVIFP6XGGuIVG9Q) VS Code 社区有2万多个插件，三种插件模式：管道式、洋葱式和事件式（最广泛）
+* [如何写一个属于自己的Vue3组件库](https://mp.weixin.qq.com/s/pqu7t7fn79EIoBLjuV69ag) 目前流行的组件库搭建方式都是使用monorepo的方式，可以在一个代码仓库中管理多个项目，可以达到项目之间的资源共享，编写组件流程详述（不至于Vue组件）
