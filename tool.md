@@ -66,3 +66,6 @@
 * [人工智能-ChatGPT整合在线工具](https://poe.com/) 
  * [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) 用户提供两张图片，这个工具使用开源的 Stable Diffusion 模型，生成一段视频，内容是图片 A 逐渐变成图片 B。
 * [分享 10 个你可能不知道的 Devtools 技巧！](https://mp.weixin.qq.com/s?__biz=Mzk0MDMwMzQyOA==&mid=2247498191&idx=1&sn=25493523d55ac10481aca455efc328d5&chksm=c2e10ce4f59685f2cf7d7414d407827038ec6f2203d40235735bba1e1b0ef055a7a2253266b7&token=2133551871&lang=zh_CN#rd) Chrome 实用的调试技巧分享
+* [DevToys](https://devtoys.app/) 一款 Windows 的小工具集合，收入了开发者会用到的许多小工具。
+* [Atlassian宣布10亿美元收购Loom](https://www.atlassian.com/blog/announcements/atlassian-acquires-loom) 澳大利亚软件巨头 Atlassian 上周宣布，以10亿美元收购录屏软件 Loom。谁能想到，一个录屏软件可以值这么多。它会把你的录屏自动发到云端，生成一个链接，你把这个 URL 发给其他人，对方就能在 Loom 的网站看到这个视频，它对企业用户非常有用，有些事情说不清，录一段屏就能让别人明白。
+* [LocalSend](https://localsend.org/) 一款开源的跨平台文件传送软件，不需要互联网连接，依靠共享 Wifi 分享文件。
