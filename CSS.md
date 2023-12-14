@@ -107,3 +107,4 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [纳尼！！CSS 也能实现碰撞检测？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496393&idx=1&sn=132c1466734e11af309ee9ce78f9203c&chksm=ce26913ff95118298b390c6068849d6364920f5190e39d8b6659d4b3216fe99111aec20a080c&token=263092570&lang=zh_CN#rd) 如何在碰撞的瞬间，实现颜色的切换？知道每一轮 X、Y 方向上的动画时长的，那我们只需要在每次这个结点上，切换一次颜色即可。
 * [【动画进阶】当路径动画遇到滚动驱动！](https://mp.weixin.qq.com/s/8zTZcX7XgnshPcXLvRYkZg)  CSS 中非常新奇有趣的一个新特性 -- @scroll-timeline：革命性创新，动画杀手锏 @scroll-timeline[1]。
 * [自适应文本框的实现（英文）](https://www.amitmerchant.com/textarea-auto-increase-height/) 用户输入文本，如何让网页输入框随着文字的增加，自动增加高度？不用 JS，只用 CSS。
+* [CSS 也能实现 if 判断？实现动态高度下的不同样式展现](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497245&idx=1&sn=ec983bc9a4c6a335e73de14ddccb4568&scene=21#wechat_redirect) 实现动态高度 不同UI的两方法总结
