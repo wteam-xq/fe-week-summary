@@ -70,3 +70,5 @@
 * [Atlassian宣布10亿美元收购Loom](https://www.atlassian.com/blog/announcements/atlassian-acquires-loom) 澳大利亚软件巨头 Atlassian 上周宣布，以10亿美元收购录屏软件 Loom。谁能想到，一个录屏软件可以值这么多。它会把你的录屏自动发到云端，生成一个链接，你把这个 URL 发给其他人，对方就能在 Loom 的网站看到这个视频，它对企业用户非常有用，有些事情说不清，录一段屏就能让别人明白。
 * [LocalSend](https://localsend.org/) 一款开源的跨平台文件传送软件，不需要互联网连接，依靠共享 Wifi 分享文件。
 * [支持远程调试的 "vConsole" | 掘金热文](https://mp.weixin.qq.com/s?__biz=Mzg5NjAzMjI0NQ==&mid=2247506177&idx=2&sn=848e7d949b61931918404aa5da3a28cc&scene=21#wechat_redirect) PageSpy是一个强大的开源前端远程调试平台，它可以显著提高我们在面对前端问题时的效率。
+* [Python Online Compiler](https://pythononlinecompiler.com/) 一个在网页运行 Python 代码、显示运行结果的编译器，可以指定 Python 版本。
+* [IP工具箱](https://github.com/jason5ng32/MyIP/blob/main/README_CN.md) 一个开源的本地网站，集成了 IP 相关的各种查询。

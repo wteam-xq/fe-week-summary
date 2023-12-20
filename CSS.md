@@ -62,7 +62,7 @@ Tailwind CSS 是这两年前端工程师们最想尝试的技术之一，谁用�
 * [不需要 JS！仅用 CSS 也能达到监听页面滚动的效果！](https://mp.weixin.qq.com/s/aDJp-Vk2wsYRRFu7O8hkFg) 阴影一开始就出现，滚动过程中，阴影就自动就可见了，遮挡物正好又会被头部遮住，注意，遮挡物和内容是一起滚动！
 * [多行文本下的文字渐隐消失术](https://mp.weixin.qq.com/s/qADnUx3G2tKyMT7iv6qFwg) 文本消失效果，比较实用
 * [CSS Grid 在 Figma 的应用](https://ishadeed.com/article/figma-css/) Figma 操作面板使用 CSS 网格来实现，作者详细介绍它的实现，网格原来还能这样用。
-* [来了，来了，CSS :has()伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) Chrome新支持的CSS特性介绍
+* [来了，来了，CSS :has()伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) Chrome新支持的CSS特性介绍, 父容器选择器
 * [你可能不了解的CSS容器查询！！](http://www.muzhuangnet.com/show/53027.html) iShadeed 大神译文
 * [还在用定时器吗？借助 CSS 来监听事件](https://mp.weixin.qq.com/s/84eYQjIWk8W0hEgQ8daeSg) 使用CSS完成延时操作，较少JS代码
 * [如何保持网页图像的纵横比](https://jakearchibald.com/2022/img-aspect-ratio/) 作者详细讨论了，在网页图像加载之前，就提前留出图像空间的两种方法：CSS 的 aspect-ratio 属性，以及<img>的 height 和 width 属性。
