@@ -72,3 +72,4 @@
 * [支持远程调试的 "vConsole" | 掘金热文](https://mp.weixin.qq.com/s?__biz=Mzg5NjAzMjI0NQ==&mid=2247506177&idx=2&sn=848e7d949b61931918404aa5da3a28cc&scene=21#wechat_redirect) PageSpy是一个强大的开源前端远程调试平台，它可以显著提高我们在面对前端问题时的效率。
 * [Python Online Compiler](https://pythononlinecompiler.com/) 一个在网页运行 Python 代码、显示运行结果的编译器，可以指定 Python 版本。
 * [IP工具箱](https://github.com/jason5ng32/MyIP/blob/main/README_CN.md) 一个开源的本地网站，集成了 IP 相关的各种查询。
+* [17个有用的CLI命令，作为前端工程师，你需要知道一下](http://mp.weixin.qq.com/s?__biz=MzIyMDkwODczNw==&mid=2247505872&idx=1&sn=3c5d807a4b84050fb3fd86a8f1bec736&chksm=97c64a7ea0b1c36893b7444bd3cdac6aec22b429b28a2df4d354e8f5a9edc6c19266cee7f1f0&scene=21#wechat_redirect) 日常开发中， 实用的 CLI 命令
