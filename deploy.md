@@ -80,3 +80,4 @@ umd 是 “Universal Module Definition” 的缩写，它可以在 <script> 标�
 * [Corona技术专题-日志上报、采集、分流链路设计](https://mp.weixin.qq.com/s/b2UbLb0HwXdrEce6B4tFPQ) Corona 是网易云音乐的大前端监控产品， 介绍了云音乐大前端监控产品 Corona 的日志上报、采集、分流链路，以及极端大流量场景下的应对措施。
 * [Vite 5.0正式发布](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247525068&idx=1&sn=ab6685a8b2cb0c12322b2ebe39e13fb7&scene=21#wechat_redirect) 11月16日，Vite 5.0 正式发布，这是 Vite 道路上的又一个重要里程碑！Vite 现在使用 Rollup 4，这已经代表了构建性能的大幅提升。此外，还有一些新的选项可以改善开发服务器性能。Vite 不再支持已 EOL 的 Node.js 14 / 16 / 17 / 19。现在需要 Node.js 18 / 20+。
 * [基于UI交互意图理解的异常检测方法](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651775976&idx=1&sn=c93a59cf823a72c7747ce8d6ce7744c7&scene=21#wechat_redirect) 基于UI交互意图编写的测试用例在实际业务中展现出了可以跨端、跨App的泛化能力
+* [基于 Rust 的高性能 Web 构建工具](https://www.rspack.dev/zh/) Rspack（读音为 /'ɑrespæk/,）是一个基于 Rust 的高性能构建引擎， 具备与 Webpack 生态系统的互操作性，可以被 Webpack 项目低成本集成，并提供更好的构建性能。 - 字节跳动团队出品
