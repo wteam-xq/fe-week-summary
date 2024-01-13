@@ -81,3 +81,4 @@ DOM 树中的可见节点（webkit 不会为非可视节点创建 RenderObject �
 * [巧用 curl 查看连接时间（英文）](https://susam.net/blog/timing-with-curl.html) 本文介绍了一个小技巧，可以用 curl 查看网站连接的各种时间指标。
 * [如何优雅的控制网页请求的优先级](https://mp.weixin.qq.com/s?__biz=Mzk0MDMwMzQyOA==&mid=2247499326&idx=1&sn=863ab04e1e6d73943f2675e192b31a6b&chksm=c2e10b15f59682036f05d0adf86cf6bbc88ee21a9bf83f8016a0f0f9f1d4f76e1c49b5d99875&token=475052323&lang=zh_CN&scene=21#wechat_redirect) 对于一个网页的性能和体验来讲，控制好请求发起的优先级是非常重要的，网络带宽是有限的，优先去加载重要的资源，让次要的资源延后，就可以让我们的网站体验提升一个台阶。
 * [前端性能优化实践](https://mp.weixin.qq.com/s?__biz=MzUyMDAxMjQ3Ng==&mid=2247503939&idx=1&sn=7f9e97e04530082a5dfba60b59a81248&scene=21#wechat_redirect) 比较全面的前端性能优化 理论分析 和 实践总结分享
+* [5.25秒变0.023秒：小程序图片优化全攻略](https://mp.weixin.qq.com/s?__biz=MzU2Mzk1NzkwOA==&mid=2247497970&idx=1&sn=2893fc003334d9d1b8b79c8e84948169&scene=21#wechat_redirect) 小程序图片加载实践总结

@@ -38,3 +38,4 @@
 * [​这次可能真要和 HTTP 说再见了](https://mp.weixin.qq.com/s?__biz=Mzk0MDMwMzQyOA==&mid=2247498718&idx=1&sn=373677c6489a9a0cac39172c93e85ab9&chksm=c2e10ef5f59687e383fe3bd6e57ea8f40c9e65749f97f0bb072c78833cc1b8d93527d0a56881&token=263092570&lang=zh_CN#rd) 8.16 号，Chromium 官方博客宣布了未来将尝试将所有的网站协议默认导向 HTTPS (就算用户主动使用 HTTP 访问也会如此) ，目前已经在 Chrome 115 版本开启了试验。
 * [CSS 原生嵌套写法主流浏览器最新版本已支持](https://webkit.org/blog/14571/css-nesting-and-the-cascade/) 以前的 CSS 不支持嵌套的写法。但是，现在 Firefox 和 Safari 的正式版本，都已经支持这种写法了
 * [盘点2023年前端大事件](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247525342&idx=1&sn=c97ab520c5394f56d88fa32cd80d8bd9&scene=21#wechat_redirect) 前端圈 2023年大事件盘点, 每个开源库、工具 在2023年发行的版本展示的很完整
+* [2024前端趋势预测：React不会被取代，AI崛起，追求全栈宇宙](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523658&idx=1&sn=72a6ed9e1bfddc45c8437afb1e770327&scene=21#wechat_redirect) SSR/AI/浏览器引擎、JS 引擎和运行时/跨平台框架/UI 框架/构建系统/开发工具  前端各技术的简单预测, 2024年前端技术发展预测
