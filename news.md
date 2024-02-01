@@ -39,3 +39,4 @@
 * [CSS 原生嵌套写法主流浏览器最新版本已支持](https://webkit.org/blog/14571/css-nesting-and-the-cascade/) 以前的 CSS 不支持嵌套的写法。但是，现在 Firefox 和 Safari 的正式版本，都已经支持这种写法了
 * [盘点2023年前端大事件](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247525342&idx=1&sn=c97ab520c5394f56d88fa32cd80d8bd9&scene=21#wechat_redirect) 前端圈 2023年大事件盘点, 每个开源库、工具 在2023年发行的版本展示的很完整
 * [2024前端趋势预测：React不会被取代，AI崛起，追求全栈宇宙](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523658&idx=1&sn=72a6ed9e1bfddc45c8437afb1e770327&scene=21#wechat_redirect) SSR/AI/浏览器引擎、JS 引擎和运行时/跨平台框架/UI 框架/构建系统/开发工具  前端各技术的简单预测, 2024年前端技术发展预测
+* [2023年前端技术盘点与展望](https://mp.weixin.qq.com/s/LiygBJqMN8U_vSpAjxMibQ)腾讯云开发者公众号与腾讯 MoonWebTeam 前端团队联合推出的长篇技术报告。
