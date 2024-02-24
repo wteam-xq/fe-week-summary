@@ -59,3 +59,4 @@
 * [分享能提高开发效率，提高代码质量的八个前端装饰器函数~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490056&idx=1&sn=9dcbf2cae914a557477b070fb8a50fdb&chksm=ce460f99f931868f29cbf105427ce58e456fb618cb776dc55cf108e456ff5b82fb263bfd4d58&token=263092570&lang=zh_CN#rd) 实用 前端装饰器函数 分享
 * [从VS Code看优秀插件系统的设计思路](https://mp.weixin.qq.com/s/rf-onLvIVIFP6XGGuIVG9Q) VS Code 社区有2万多个插件，三种插件模式：管道式、洋葱式和事件式（最广泛）
 * [如何写一个属于自己的Vue3组件库](https://mp.weixin.qq.com/s/pqu7t7fn79EIoBLjuV69ag) 目前流行的组件库搭建方式都是使用monorepo的方式，可以在一个代码仓库中管理多个项目，可以达到项目之间的资源共享，编写组件流程详述（不至于Vue组件）
+* [Base32 编码解释（英文）](https://ptrchm.com/posts/base32-explained/) 本文详细解释 Base64、Base32、Base8 等等是如何编码实现的。
