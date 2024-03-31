@@ -32,6 +32,7 @@
 ### [编码技巧](https://github.com/wteam-xq/fe-week-summary/blob/main/code_idea.md)
 ### [业务相关（电商、物联网等）](https://github.com/wteam-xq/fe-week-summary/blob/main/business.md)
 ### [面试相关](https://github.com/wteam-xq/fe-week-summary/blob/main/interview.md)
+### [计算机相关书籍](https://github.com/wteam-xq/fe-week-summary/blob/main/books.md)
 
 ### [其他 - 工作生活相关](https://github.com/wteam-xq/fe-week-summary/blob/main/other.md)
 

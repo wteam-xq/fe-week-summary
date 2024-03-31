@@ -86,3 +86,4 @@ umd 是“Universal Module Definition”的缩写，它可以在 <script> 标签
 * [前端请求大比拼：Fetch、Axios、Ajax、XHR](https://mp.weixin.qq.com/s/8b58SicOjeEXjGt766xHAg) 前端请求模块对比当前前端请求模块
 * [React18 JSON View](https://github.com/YYsuni/react18-json-view) 一个展示 JSON 数据的 React 组件。
 * [12个强大的 JavaScript 动画库，可帮助你提升用户体验](https://mp.weixin.qq.com/s?__biz=MjM5MDc4MzgxNA==&mid=2458473233&idx=1&sn=3e5de18643198ad2d1484bf17df703ee&scene=21#wechat_redirect) 常用的JS动画库推荐：1)Anime.js; 2)Lottie; 3)Velocity;4)Rough Notation;5)Popmotion;6)Vivus;7)GSAP:Green Stocking Animation Platform;8)Three.js;9)ScrollReveal;10)Barba.js;11)Mo.js;12)Typed.js;
+* [git-diff-view](https://github.com/MrWangJustToDo/git-diff-view) 一个 React/Vue 组件，用来显示 git diff 的结果，类似于 GitHub 的样式。
