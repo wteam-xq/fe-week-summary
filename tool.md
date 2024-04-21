@@ -76,3 +76,5 @@
 * [Chrome 插件开发指南和实践](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505008&idx=1&sn=0d430f5855974a7801b51155e5c18dcb&scene=21#wechat_redirect) 开发谷歌浏览器扩展插件 入门教程
 * [browserscan.net](https://www.browserscan.net/)该网站检测浏览器指纹、IP 地址、WebRTC 泄露，DNS 泄露等信息。
 * [Web-Check](https://github.com/Lissy93/web-check) 开源的网站分析工具, 可以分析网站的 IP 信息、SSL 链、DNS 记录、Cookie、域名信息、服务器位置、网站性能等，查看
+* [如何找到Chrome崩溃原因](https://blog.5udou.cn/blog/detail/1711630845567) Chrome 浏览器打开页面时，经常崩溃，作者就从闪退时产生的 Crash dump 文件，着手寻找崩溃原因。
+* [AI 音乐搜索引擎](https://stocktune.com/) 无版权的 AI 音乐搜索引擎。
