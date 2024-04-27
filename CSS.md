@@ -111,3 +111,4 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [2023年 CSS 发展总结（中文）](https://developer.chrome.com/blog/css-wrapped-2023?hl=zh-cn) Chrome 团队的总结，2023年 CSS 增加了哪些功能。
 * [两行 CSS 让长列表性能渲染提升 7 倍！](https://mp.weixin.qq.com/s?__biz=MzUzNTk3MjE2Ng==&mid=2247507997&idx=1&sn=6d39779d7d4656c3bc99201cf42886b9&scene=21#wechat_redirect) content-visibility， contain-intrinsic-size 针对 长列表渲染
 * [CSS 网格互动指南（An Interactive Guide to CSS Grid）](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) 一份 CSS 网格（grid）的教程，包含大量的互动示例。
+* [CSS 网格实现经典出血布局（英文）](https://www.joshwcomeau.com/css/full-bleed/) 一篇非常好的教程，讲解使用 CSS 网格（grid）实现页面的出血布局（即图片占用边距，占满整个行宽）。
