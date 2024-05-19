@@ -22,3 +22,5 @@
 * [HTML 的新增标签<search>（英文）](https://html.spec.whatwg.org/multipage/grouping-content.html#the-search-element) HTML 的最新标准新增了<search>标签，它类似于<div>标签，用来放置搜索相关的元素。
 * [关于编码的那些事——前端应该了解的字符编码](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247497157&idx=1&sn=57f98b2e4843ec66752d657308f1082d&chksm=c16006a5f6178fb33968875d7127022cf0a4da87ac254b880507262b542b1ebf69a621b2393a&token=236307061&lang=zh_CN#rd) 各种字符编码详解
 * [原生details支持手风琴模式了！](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488839&idx=1&sn=ba204dfe5b124fb8380ec6c6bd30b72d&scene=21#wechat_redirect) details通常和summary配合使用，天然支持展开收起的效果
+* [5个改善用户体验的 HTML 属性（英文）](https://www.htmhell.dev/adventcalendar/2023/4/) 本文介绍5个不常用的 HTML 属性。
+
