@@ -25,4 +25,4 @@
 * [进行模糊测试，寻找另类的漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247488861&idx=1&sn=b5f54f689c4e1ac59910d76201eac58c&chksm=e8a61f3edfd1962862b88237a46be8357cefcd17712a8a5e4c75857205d5a941d83915
 * [电子邮件加密指南（中文版）](https://emailselfdefense.fsf.org/zh-hans/) 自由软件基金会发布的详细操作步骤，如何在各种平台上对邮件使用 GnuPG 加密。
 * [Web 终极拦截技巧（中文）](https://hughfenghen.github.io/posts/2023/12/23/web-spy/) 本文介绍 Web 平台常见的拦截 HTTP 通信的方法，以及如何注入拦截代码。
-
+* [GitHub 的评论附件漏洞（英文）](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/) 本文指出 GitHub 有一个漏洞，用户可以在任意仓库的讨论区上传附件，然后这个附件的 URL 就属于这个仓库。

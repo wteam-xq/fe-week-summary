@@ -79,4 +79,4 @@
 * [如何找到Chrome崩溃原因](https://blog.5udou.cn/blog/detail/1711630845567) Chrome 浏览器打开页面时，经常崩溃，作者就从闪退时产生的 Crash dump 文件，着手寻找崩溃原因。
 * [AI 音乐搜索引擎](https://stocktune.com/) 无版权的 AI 音乐搜索引擎。
 * [VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) 一个命令行工具，通过语音识别，批量为本地的视频文件生成字幕，并支持翻译。
-
+* [TrasHTTPandas](https://httpraccoons.com/) 这个网站提供各种状态码的 HTTP 回应，供 API 调用，可以用来调试前端请求。
