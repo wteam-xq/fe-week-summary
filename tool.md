@@ -80,3 +80,5 @@
 * [AI 音乐搜索引擎](https://stocktune.com/) 无版权的 AI 音乐搜索引擎。
 * [VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) 一个命令行工具，通过语音识别，批量为本地的视频文件生成字幕，并支持翻译。
 * [TrasHTTPandas](https://httpraccoons.com/) 这个网站提供各种状态码的 HTTP 回应，供 API 调用，可以用来调试前端请求。
+* [TexttoSpeech.im](https://texttospeech.im/zh-CN) 一个免费的在线应用，将文本转换为语音，支持50种语言、8000种声音。
+* [Proton Pass](https://proton.me/pass) Proton 公司新推出的密码管理器，支持各种系统。

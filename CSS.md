@@ -113,3 +113,4 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [CSS 网格互动指南（An Interactive Guide to CSS Grid）](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) 一份 CSS 网格（grid）的教程，包含大量的互动示例。
 * [CSS 网格实现经典出血布局（英文）](https://www.joshwcomeau.com/css/full-bleed/) 一篇非常好的教程，讲解使用 CSS 网格（grid）实现页面的出血布局（即图片占用边距，占满整个行宽）。
 * [css - :has()教程（英文）](https://ishadeed.com/article/css-has-guide/) 本文介绍如何使用:has()选择器，特点是有大量互动示例。
+* [CSS 的 3D 折叠效果（英文）](https://www.joshwcomeau.com/react/folding-the-dom/) 本文介绍如何使用 CSS 实现 3D 的页面折叠动画效果（上图）。

@@ -8,3 +8,4 @@
 * [整会这 8 个 Promise 高级用法，再被问倒来喷我！！！](https://mp.weixin.qq.com/s/GH_GrE4cRC4tw3yNpJ8zoA) promise 的使用应该是必不可少的，但我发现在同事和面试者中，很多中级或以上的前端都还停留在promiseInst.then()、promiseInst.catch()、Promise.all等常规用法，连async/await也只是知其然，而不知其所以然。
 * [学习：Web音视频系列](https://hughfenghen.github.io/tag/WebAV/) 一组系列文章，介绍如何在浏览器中处理音视频。
 * [面试官：如何实现 PDF 预览和下载？](https://mp.weixin.qq.com/s/BvS9-b5HGO5QHKTFclQJsA) pdf.js实现原理，其他实现 PDF 预览、下载方案汇总
+* [200行JavaScript代码实现虚拟DOM](https://lazamar.github.io/virtual-dom/) 虚拟 DOM 是很多 JS 框架的底层基础，本文演示怎么自己从头实现它。
