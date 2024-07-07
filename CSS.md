@@ -114,3 +114,4 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [CSS 网格实现经典出血布局（英文）](https://www.joshwcomeau.com/css/full-bleed/) 一篇非常好的教程，讲解使用 CSS 网格（grid）实现页面的出血布局（即图片占用边距，占满整个行宽）。
 * [css - :has()教程（英文）](https://ishadeed.com/article/css-has-guide/) 本文介绍如何使用:has()选择器，特点是有大量互动示例。
 * [CSS 的 3D 折叠效果（英文）](https://www.joshwcomeau.com/react/folding-the-dom/) 本文介绍如何使用 CSS 实现 3D 的页面折叠动画效果（上图）。
+* [CSS 锚点定位](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning) Chrome 125 引入了 CSS 锚点定位（Anchor Positioning），这种新语法使得元素之间相对定位变得异常容易。
