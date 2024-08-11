@@ -82,3 +82,5 @@
 * [TrasHTTPandas](https://httpraccoons.com/) 这个网站提供各种状态码的 HTTP 回应，供 API 调用，可以用来调试前端请求。
 * [TexttoSpeech.im](https://texttospeech.im/zh-CN) 一个免费的在线应用，将文本转换为语音，支持50种语言、8000种声音。
 * [Proton Pass](https://proton.me/pass) Proton 公司新推出的密码管理器，支持各种系统。
+* [在线生成Markdown表格](https://tool.lu/tables/) 在线生成 Markdown 表格，否则手写太麻烦
+* [IP - network](https://www.ip.network/) 查询当前网络外网IP
