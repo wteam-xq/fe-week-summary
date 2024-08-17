@@ -84,3 +84,4 @@
 * [Proton Pass](https://proton.me/pass) Proton 公司新推出的密码管理器，支持各种系统。
 * [在线生成Markdown表格](https://tool.lu/tables/) 在线生成 Markdown 表格，否则手写太麻烦
 * [IP - network](https://www.ip.network/) 查询当前网络外网IP
+* [Text to Logo & Favicon](https://www.logo.surf/) 一个制作文字徽标（logo 和 favicon）的在线工具
