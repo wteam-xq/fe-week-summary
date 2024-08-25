@@ -57,3 +57,4 @@ CommonJS： Node.js 采用该规范
 ES 模块： JavaScript 内置模块系统
 ```
 * [JavaScript新数组方法介绍，不更改原数据](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649858062&idx=1&sn=1c1f43151eeaa4a46102658a3e28c2f7&scene=21#wechat_redirect) ECMAScript 2023 规范最近已经定稿，其中提出的 Array 对象新方法将为 JavaScript 带来更好的可预测性和可维护性。toSorted、toReversed、toSpliced 和 with 方法允许用户在不更改数据的情况下对数据执行操作，实质是先制造副本再更改该副本。
+* [JavaScript 的并集、交集、差集语法](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/) JavaScript 为 Set 数据结构，引入了集合运算的方法，原生支持计算并集、交集、差集。

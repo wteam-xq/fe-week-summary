@@ -115,3 +115,4 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [css - :has()教程（英文）](https://ishadeed.com/article/css-has-guide/) 本文介绍如何使用:has()选择器，特点是有大量互动示例。
 * [CSS 的 3D 折叠效果（英文）](https://www.joshwcomeau.com/react/folding-the-dom/) 本文介绍如何使用 CSS 实现 3D 的页面折叠动画效果（上图）。
 * [CSS 锚点定位](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning) Chrome 125 引入了 CSS 锚点定位（Anchor Positioning），这种新语法使得元素之间相对定位变得异常容易。
+* [CSS 终于支持垂直居中命令](https://build-your-own.org/blog/20240813_css_vertical_center/) CSS 终于支持align-content一条指令，实现垂直居中了。本文介绍了CSS最新 实现垂直居中API，以及旧CSS 如何实现【垂直居中】的方法列表
