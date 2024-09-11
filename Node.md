@@ -69,3 +69,4 @@ C 层主要包括 Libuv 这一跨平台的异步 IO 库以及其他第三方 C �
 * [解析 Node.js 镜像原理，轻松构建高效 CI/CD 流程](https://mp.weixin.qq.com/s/4lj3VAVwKL9aaMgFqFDifg) Node环境介绍、Linux各版本简介
 * [Node.js 21来了！](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247512205&idx=1&sn=8f995180734c1629771421864bdd4d94&chksm=e80fffc3df7876d50473e007e7004894e3671d886b087b1294327748b0fce49644679ddc3225&token=663739188&lang=zh_CN&scene=21#wechat_redirect) JavaScript 引擎 V8 已升级至 11.8，对测试运行器的许多更新，允许用户运行功能测试并导出结果......
 * [VineJS](https://github.com/vinejs/vine) 一个 Node.js 的表单验证库，只用于后端，支持大量验证规则，验证速度快。
+* [NextJs 14 从入门到精通（长文预警）](https://mp.weixin.qq.com/s?__biz=MzA5NjUxMTM2MQ==&mid=2247503783&idx=1&sn=ed6754f015f24ac3b5104e9922227147&scene=21#wechat_redirect) 大而全的 NexJS 教程， 可收藏
