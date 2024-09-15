@@ -60,3 +60,4 @@
 * [从VS Code看优秀插件系统的设计思路](https://mp.weixin.qq.com/s/rf-onLvIVIFP6XGGuIVG9Q) VS Code 社区有2万多个插件，三种插件模式：管道式、洋葱式和事件式（最广泛）
 * [如何写一个属于自己的Vue3组件库](https://mp.weixin.qq.com/s/pqu7t7fn79EIoBLjuV69ag) 目前流行的组件库搭建方式都是使用monorepo的方式，可以在一个代码仓库中管理多个项目，可以达到项目之间的资源共享，编写组件流程详述（不至于Vue组件）
 * [Base32 编码解释（英文）](https://ptrchm.com/posts/base32-explained/) 本文详细解释 Base64、Base32、Base8 等等是如何编码实现的。
+* [10 个你可能不知道的高级 JavaScript 技术](https://mp.weixin.qq.com/s?__biz=MjM5MDA2MTI1MA==&mid=2649142189&idx=2&sn=303eb1ee2f41d8d4631305b61ebe468d&scene=21#wechat_redirect) 充分利用控制台 、生成器、 防抖、节流等都是很实用的 编程思维
