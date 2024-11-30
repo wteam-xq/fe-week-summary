@@ -25,3 +25,4 @@
 2）lldb+wasmtime 调试原生代码
 3）独立工具WasmInspect调试
 ```
+* [浏览器的数据存储方法比较](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html) 本文介绍浏览器现在的几种数据存储方法： LocalStorage、IndexedDB、Cookies、OPFS、WASM-SQLite。
