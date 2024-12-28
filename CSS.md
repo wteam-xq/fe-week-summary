@@ -119,4 +119,6 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [【动画进阶】酷炫的多行文本随滚动颜色变换](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247498911&idx=1&sn=f3f10dada118bd34472c32af32f03991&scene=21#wechat_redirect) 一个标签实现多行文字，滚动出现多个颜色
 * [纯CSS实现网格布景](https://spacexcode.com/blog/pure-css-grid-line/) 作者介绍几种方法，使用纯 CSS，实现网页背景的网格效果
 * [Animate.css](https://animate.style/) 一个网页动画的 CSS 库，指定 DOM 元素的类名，产生动画效果。
+* [CSS 重置（2024年版）](https://www.joshwcomeau.com/css/custom-css-reset/) 作者提出，最新的 CSS 重置（CSS reset，即更改浏览器默认样式）只需要9条规则，每一条都详细解释。
+* [CSS 网格区块详解](https://ishadeed.com/article/css-grid-area/#header-layout) 这篇长文详细介绍 CSS grid 布局的区块功能（template area）。
 

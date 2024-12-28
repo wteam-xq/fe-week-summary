@@ -87,4 +87,7 @@
 * [Text to Logo & Favicon](https://www.logo.surf/) 一个制作文字徽标（logo 和 favicon）的在线工具
 * [dns-surf](https://dns.surf/) 检查域名在全球不同地区的 DNS 解析结果
 * [Image to Excel](https://itexcel.izhiyakeji.com/) 图片转Excel应用
+* [Easy Resizer](https://easyresizer.com/) 一个在线工具，批量调整图片尺寸（宽、高）
+* [IMG2AVIF](https://img2avif.com/) 一个网页工具，将各种格式的图片转成 AVIF 格式。
+* [13个对前端有用的谷歌浏览器插件](https://jsdevspace.substack.com/p/13-super-useful-chrome-plugins-for) 本文介绍13个用于前端开发的 Chrome 插件。
 

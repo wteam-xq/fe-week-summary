@@ -10,3 +10,6 @@
 * [where 与 having 子句的区别(英文)](https://sql-bits.com/the-difference-between-where-and-having/)
 * [IndexedDB 为什么很慢？](https://rxdb.info/slow-indexeddb.html) IndexedDB 是浏览器内置的数据库接口，但是运行速度很慢，本文分析了原因，提出正确的使用方法。
 * [学会Sequelize，让你操作数据更丝滑](https://mp.weixin.qq.com/s/wPX1ihyj8Gw5E9Wg5y5yZg) 难得看到 Sequelize 博文， 实战演练部分有干货
+* [不要用 SQL 的 count(*) 语句与 0 比较（](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/) 一篇 SQL 科普文章，不要用 count(*) 等于 0，来判断不存在符合条件的记录。
+*[PMAtron](https://github.com/maskerprc/pmatron)  将 phpMyAdmin 用 Electron 封装成跨平台桌面软件。
+
