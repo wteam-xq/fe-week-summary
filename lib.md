@@ -88,3 +88,4 @@ umd 是“Universal Module Definition”的缩写，它可以在 <script> 标签
 * [12个强大的 JavaScript 动画库，可帮助你提升用户体验](https://mp.weixin.qq.com/s?__biz=MjM5MDc4MzgxNA==&mid=2458473233&idx=1&sn=3e5de18643198ad2d1484bf17df703ee&scene=21#wechat_redirect) 常用的JS动画库推荐：1)Anime.js; 2)Lottie; 3)Velocity;4)Rough Notation;5)Popmotion;6)Vivus;7)GSAP:Green Stocking Animation Platform;8)Three.js;9)ScrollReveal;10)Barba.js;11)Mo.js;12)Typed.js;
 * [git-diff-view](https://github.com/MrWangJustToDo/git-diff-view) 一个 React/Vue 组件，用来显示 git diff 的结果，类似于 GitHub 的样式。
 * [newcar](https://github.com/dromara/newcar) 一个 JS 语言的前端动画引擎，基于 Skia 的WebAssembly 版本，在 Canvas 画布上生成动画。
+* [Superdiff](https://github.com/DoneDeal0/superdiff) 一个 JS 库，对两个对象或数组进行 diff 操作，返回差异的部分。

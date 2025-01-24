@@ -121,4 +121,6 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [Animate.css](https://animate.style/) 一个网页动画的 CSS 库，指定 DOM 元素的类名，产生动画效果。
 * [CSS 重置（2024年版）](https://www.joshwcomeau.com/css/custom-css-reset/) 作者提出，最新的 CSS 重置（CSS reset，即更改浏览器默认样式）只需要9条规则，每一条都详细解释。
 * [CSS 网格区块详解](https://ishadeed.com/article/css-grid-area/#header-layout) 这篇长文详细介绍 CSS grid 布局的区块功能（template area）。
+* [无限滚动轮播的 CSS 实现（](https://blog.logto.io/css-only-infinite-scroll) 本文教你只用 CSS 实现类似弹幕的无限滚动轮播效果，还能用鼠标悬停。
+* [推特纯CSS点赞效果](https://leanrada.com/notes/css-sprite-sheets/) 推特的点赞按钮是一颗心（上图），点击后出现一段动画效果。它是用 CSS Sprite 实现的，本文介绍如何做这个效果。
 
