@@ -124,4 +124,6 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [无限滚动轮播的 CSS 实现（](https://blog.logto.io/css-only-infinite-scroll) 本文教你只用 CSS 实现类似弹幕的无限滚动轮播效果，还能用鼠标悬停。
 * [推特纯CSS点赞效果](https://leanrada.com/notes/css-sprite-sheets/) 推特的点赞按钮是一颗心（上图），点击后出现一段动画效果。它是用 CSS Sprite 实现的，本文介绍如何做这个效果。
 * [了解 CSS 的 overflow: clip](https://ishadeed.com/article/overflow-clip/) CSS 的 overflow 属性，有一个 clip 值，可以截去溢出部分。通过它，可以做出很多页面效果。
+* [CSS 局部作用域 @scope](https://picostitch.com/tidbits/2024/10/inline-scope-for-css/) 本文介绍 CSS 局部作用域语法 @scope，它定义的规则只对当前区域生效，Chrome 浏览器已经支持。
+* [CSS 属性的 unset 值（英文）](https://www.silvestar.codes/articles/reset-with-css-unset/) CSS 属性几乎都可以设成三个值 initial（不继承）/inherit（继承）/unset（取消默认值），本文用例子解释它们的含义。
 
