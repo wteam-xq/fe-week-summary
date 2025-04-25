@@ -126,4 +126,6 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [了解 CSS 的 overflow: clip](https://ishadeed.com/article/overflow-clip/) CSS 的 overflow 属性，有一个 clip 值，可以截去溢出部分。通过它，可以做出很多页面效果。
 * [CSS 局部作用域 @scope](https://picostitch.com/tidbits/2024/10/inline-scope-for-css/) 本文介绍 CSS 局部作用域语法 @scope，它定义的规则只对当前区域生效，Chrome 浏览器已经支持。
 * [CSS 属性的 unset 值（英文）](https://www.silvestar.codes/articles/reset-with-css-unset/) CSS 属性几乎都可以设成三个值 initial（不继承）/inherit（继承）/unset（取消默认值），本文用例子解释它们的含义。
+* [text-wrap 的新设置](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/) text-wrap 在 CSS 里面用来控制文本换行。它有两个新设置 text-wrap: pretty 和 text-wrap: balance。
+
 
