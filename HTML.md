@@ -25,4 +25,5 @@
 * [5个改善用户体验的 HTML 属性（英文）](https://www.htmhell.dev/adventcalendar/2023/4/) 本文介绍5个不常用的 HTML 属性。
 * [<span>元素能干什么？（英文）](https://onlyspans.net/) <span>是一个表示行内文本的 HTML 网页元素，本文收集了许多案例，你可以用它做各种各样的事情。
 * [10 个像专业人士一样使用 <template> HTML 标签的基本技巧](https://mp.weixin.qq.com/s?__biz=MjM5MDA2MTI1MA==&mid=2649142016&idx=2&sn=fa0340ec15b81c0f086047a56baaedf1&scene=21#wechat_redirect) 页面渲染时，<template>标签内容不参与渲染，该标签主要用于临时存储通用DOM内容，做性能优化。
+* [清理<head>（英文）](https://getoutofmyhead.dev/) 网页的<head>部分里面，很多标签是不必要的，这个网站介绍可以删除的标签，比如 favicon、Apple touch icons。
 
