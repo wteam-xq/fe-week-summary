@@ -90,4 +90,6 @@
 * [Easy Resizer](https://easyresizer.com/) 一个在线工具，批量调整图片尺寸（宽、高）
 * [IMG2AVIF](https://img2avif.com/) 一个网页工具，将各种格式的图片转成 AVIF 格式。
 * [13个对前端有用的谷歌浏览器插件](https://jsdevspace.substack.com/p/13-super-useful-chrome-plugins-for) 本文介绍13个用于前端开发的 Chrome 插件。
+* [Zero Convert](https://nextbconvert.com/) 在线文件格式互转工具
+* [Hyvector](https://www.hyvector.com/) 在线的矢量图（SVG 文件）编辑工具。
 
