@@ -128,5 +128,5 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [CSS 属性的 unset 值（英文）](https://www.silvestar.codes/articles/reset-with-css-unset/) CSS 属性几乎都可以设成三个值 initial（不继承）/inherit（继承）/unset（取消默认值），本文用例子解释它们的含义。
 * [text-wrap 的新设置](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/) text-wrap 在 CSS 里面用来控制文本换行。它有两个新设置 text-wrap: pretty 和 text-wrap: balance。
 * [HTML <dialog> 的 CSS 技巧（英文）](https://cassidoo.co/post/css-for-dialogs/) HTML 有一个原生的弹窗元素<dialog>，本文介绍两个配套使用的 CSS 技巧。
-
+* [CSS 的部分关键帧](https://www.joshwcomeau.com/animation/partial-keyframes/) 本文是 CSS 中级教程，介绍 CSS 动画如果只写一个关键帧（起始/结束），也有很多应用场景。
 

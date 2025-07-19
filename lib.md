@@ -90,3 +90,4 @@ umd 是“Universal Module Definition”的缩写，它可以在 <script> 标签
 * [newcar](https://github.com/dromara/newcar) 一个 JS 语言的前端动画引擎，基于 Skia 的WebAssembly 版本，在 Canvas 画布上生成动画。
 * [Superdiff](https://github.com/DoneDeal0/superdiff) 一个 JS 库，对两个对象或数组进行 diff 操作，返回差异的部分。
 * [Defuddle](https://github.com/kepano/defuddle) 一个 JS 库，从 HTML 网页代码提取内容，转成文本。
+* [LogTape](https://github.com/dahlia/logtape) JS 日志库，号称性能好，功能强.
