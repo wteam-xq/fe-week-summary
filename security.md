@@ -26,3 +26,4 @@
 * [电子邮件加密指南（中文版）](https://emailselfdefense.fsf.org/zh-hans/) 自由软件基金会发布的详细操作步骤，如何在各种平台上对邮件使用 GnuPG 加密。
 * [Web 终极拦截技巧（中文）](https://hughfenghen.github.io/posts/2023/12/23/web-spy/) 本文介绍 Web 平台常见的拦截 HTTP 通信的方法，以及如何注入拦截代码。
 * [GitHub 的评论附件漏洞（英文）](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/) 本文指出 GitHub 有一个漏洞，用户可以在任意仓库的讨论区上传附件，然后这个附件的 URL 就属于这个仓库。
+* [绕过https证书报错](https://thomascountz.com/2025/07/17/chromes-ssl-bypass-cheatcode)Chrome 浏览器遇到网站证书错误，会显示一个报错页面，谁能想到，它居然有后门，只要输入口令thisisunsafe，就能跳过这个页面。

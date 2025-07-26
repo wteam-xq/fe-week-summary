@@ -129,4 +129,5 @@ iphone上使用will-change会导致图片模糊、文字模糊问题;
 * [text-wrap 的新设置](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/) text-wrap 在 CSS 里面用来控制文本换行。它有两个新设置 text-wrap: pretty 和 text-wrap: balance。
 * [HTML <dialog> 的 CSS 技巧（英文）](https://cassidoo.co/post/css-for-dialogs/) HTML 有一个原生的弹窗元素<dialog>，本文介绍两个配套使用的 CSS 技巧。
 * [CSS 的部分关键帧](https://www.joshwcomeau.com/animation/partial-keyframes/) 本文是 CSS 中级教程，介绍 CSS 动画如果只写一个关键帧（起始/结束），也有很多应用场景。
-
+* [CSS的if()函数](https://developer.chrome.com/blog/if-article?hl=zh-cn) Chrome 浏览器的137版本，开始支持 CSS 的条件语句—— if() 函数。CSS 越来越像编程语言了。
+* [CSS border-image 详解](https://css-tricks.com/revisiting-css-border-image/) 本文详细介绍 CSS 的 border-image 属性，如何为边框设置背景图案。
